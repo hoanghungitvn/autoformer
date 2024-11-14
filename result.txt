@@ -1,0 +1,2313 @@
+MNKL_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.7106243968009949, mae:0.3592517375946045
+
+MNKL_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.7511380314826965, mae:0.36872366070747375
+
+MNKL_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_1  
+mse:0.754237949848175, mae:0.36260583996772766
+
+MNKL_Informer_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.6771582961082458, mae:0.3361673057079315
+
+MNKL_Informer_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.6771582961082458, mae:0.3361673057079315
+
+MNKL_Informer_Informer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.6771582961082458, mae:0.3361673057079315, r2:0.37765705585479736
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025729017332196236, mae:0.10848169028759003, rmse: 0.16040267050266266, r2:0.9692455418407917
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025729017332196236, mae:0.10848169028759003, rmse: 0.16040267050266266, r2:0.9692455418407917
+
+KL_96_24_Informer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.008389648050069809, mae:0.05114993453025818, rmse: 0.09159502387046814, r2:0.9899716703221202
+
+KL_96_24_Informer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.008389648050069809, mae:0.05114993453025818, rmse: 0.09159502387046814, r2:0.9899716703221202
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025729017332196236, mae:0.10848169028759003, rmse: 0.16040267050266266, r2:0.9692455418407917
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.039754144847393036, mae:0.13037994503974915, rmse: 0.1993844211101532, r2:0.9524810016155243
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df32_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06380307674407959, mae:0.18522952497005463, rmse: 0.25259271264076233, r2:0.9237347841262817
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.039754144847393036, mae:0.13037994503974915, rmse: 0.1993844211101532, r2:0.9524810016155243
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13962754607200623, mae:0.27179035544395447, rmse: 0.3736676871776581, r2:0.8331001400947571
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13962754607200623, mae:0.27179035544395447, rmse: 0.3736676871776581, r2:0.8331001400947571
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0931616872549057, mae:0.21783532202243805, rmse: 0.3052240014076233, r2:0.8886417970061302
+
+KL_96_24_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.056695934385061264, mae:0.15870748460292816, rmse: 0.23810908198356628, r2:0.9322301149368286
+
+Autoformer1.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06981858611106873, mae:0.19112567603588104, rmse: 0.2642320692539215, r2:0.9165443181991577
+
+Autoformer1.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.023196546360850334, mae:0.10283847153186798, rmse: 0.15230412781238556, r2:0.9722726605832577
+
+Autoformer1.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.023196546360850334, mae:0.10283847153186798, rmse: 0.15230412781238556, r2:0.9722726605832577
+
+Autoformer2.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04328879341483116, mae:0.14827720820903778, rmse: 0.20805959403514862, r2:0.9482559561729431
+
+Autoformer3.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21294261515140533, mae:0.3411412239074707, rmse: 0.4614570438861847, r2:0.7454650402069092
+
+Autoformer4.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04629626125097275, mae:0.1514231264591217, rmse: 0.2151656597852707, r2:0.9446610696613789
+
+Autoformer5.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23867188394069672, mae:0.34205061197280884, rmse: 0.48854056000709534, r2:0.7147102653980255
+
+Autoformer6.0_Autoformer_custom_ftMS_sl24_ll4_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03753716126084328, mae:0.13954322040081024, rmse: 0.19374509155750275, r2:0.955131009221077
+
+Autoformer1_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15427418053150177, mae:0.2867840826511383, rmse: 0.39277753233909607, r2:0.8155926913022995
+
+Autoformer2_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.030980072915554047, mae:0.1250269114971161, rmse: 0.1760115772485733, r2:0.9629688411951065
+
+Autoformer4_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05526113882660866, mae:0.17439590394496918, rmse: 0.2350768744945526, r2:0.9339451566338539
+
+Autoformer5_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10259481519460678, mae:0.23018009960651398, rmse: 0.3203042447566986, r2:0.8773661702871323
+
+Autoformer7_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03247380629181862, mae:0.12703575193881989, rmse: 0.18020489811897278, r2:0.9611833468079567
+
+Autoformer8_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06207505986094475, mae:0.16466954350471497, rmse: 0.2491486668586731, r2:0.9258003234863281
+
+Autoformer10_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05880335345864296, mae:0.17249153554439545, rmse: 0.24249403178691864, r2:0.9297110661864281
+
+Autoformer11_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08898403495550156, mae:0.21669219434261322, rmse: 0.29830190539360046, r2:0.8936354368925095
+
+Autoformer13_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.040557779371738434, mae:0.146737203001976, rmse: 0.2013896256685257, r2:0.9515204019844532
+
+Autoformer14_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08559313416481018, mae:0.18739987909793854, rmse: 0.2925630509853363, r2:0.8976886570453644
+
+Autoformer16_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18312548100948334, mae:0.2939731776714325, rmse: 0.42793163657188416, r2:0.781106099486351
+
+Autoformer17_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03253009915351868, mae:0.12884651124477386, rmse: 0.18036101758480072, r2:0.9611160606145859
+
+Autoformer19_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03698479011654854, mae:0.1210087388753891, rmse: 0.1923142969608307, r2:0.9557912722229958
+
+Autoformer20_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025504745543003082, mae:0.11167626827955246, rmse: 0.15970204770565033, r2:0.9695136211812496
+
+Autoformer22_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0773937925696373, mae:0.1926632821559906, rmse: 0.27819740772247314, r2:0.9074895083904266
+
+Autoformer23_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20319987833499908, mae:0.299567848443985, rmse: 0.45077696442604065, r2:0.7571107447147369
+
+Autoformer25_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15044355392456055, mae:0.27142244577407837, rmse: 0.38787055015563965, r2:0.8201715350151062
+
+Autoformer26_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18838375806808472, mae:0.3156498670578003, rmse: 0.43403196334838867, r2:0.7748207747936249
+
+Autoformer28_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28892096877098083, mae:0.41427144408226013, rmse: 0.5375136733055115, r2:0.6546464562416077
+
+Autoformer29_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2564074397087097, mae:0.33349403738975525, rmse: 0.5063669085502625, r2:0.6935105621814728
+
+Autoformer31_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.054896414279937744, mae:0.15211302042007446, rmse: 0.23429983854293823, r2:0.9343811199069023
+
+Autoformer32_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.034641508013010025, mae:0.12196339666843414, rmse: 0.18612229824066162, r2:0.9585922472178936
+
+Autoformer34_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.9110205173492432, mae:0.6690346598625183, rmse: 0.9544739723205566, r2:-0.08896279335021973
+
+Autoformer35_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20113486051559448, mae:0.30302900075912476, rmse: 0.44848060607910156, r2:0.7595791071653366
+
+Autoformer37_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.053053244948387146, mae:0.16264568269252777, rmse: 0.2303328961133957, r2:0.9365842938423157
+
+Autoformer38_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05286936089396477, mae:0.14651793241500854, rmse: 0.22993338108062744, r2:0.9368040934205055
+
+Autoformer40_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1273466795682907, mae:0.24903200566768646, rmse: 0.35685667395591736, r2:0.8477797359228134
+
+Autoformer41_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03673194721341133, mae:0.1269514262676239, rmse: 0.19165579974651337, r2:0.9560935012996197
+
+Autoformer43_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03423949331045151, mae:0.12422791123390198, rmse: 0.18503916263580322, r2:0.9590727835893631
+
+Autoformer44_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26565778255462646, mae:0.35392338037490845, rmse: 0.5154200196266174, r2:0.682453453540802
+
+Autoformer46_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05435419827699661, mae:0.16865500807762146, rmse: 0.23313987255096436, r2:0.9350292384624481
+
+Autoformer47_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0914011001586914, mae:0.2150411307811737, rmse: 0.30232614278793335, r2:0.8907462731003761
+
+Autoformer49_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03279653564095497, mae:0.11725779622793198, rmse: 0.18109813332557678, r2:0.9607975855469704
+
+Autoformer50_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05583355203270912, mae:0.14673934876918793, rmse: 0.23629124462604523, r2:0.933260940015316
+
+Autoformer52_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08327624946832657, mae:0.20800940692424774, rmse: 0.28857624530792236, r2:0.900458075106144
+
+Autoformer53_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.042983632534742355, mae:0.14897942543029785, rmse: 0.20732493698596954, r2:0.9486207216978073
+
+Autoformer55_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.021470556035637856, mae:0.10065508633852005, rmse: 0.14652834832668304, r2:0.9743357766419649
+
+Autoformer56_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.029850341379642487, mae:0.12012410908937454, rmse: 0.17277251183986664, r2:0.9643192328512669
+
+Autoformer58_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28056398034095764, mae:0.3744856119155884, rmse: 0.5296829342842102, r2:0.6646357476711273
+
+Autoformer59_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09476117789745331, mae:0.22538259625434875, rmse: 0.3078330457210541, r2:0.886729896068573
+
+Autoformer61_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06469177454710007, mae:0.19264546036720276, rmse: 0.25434577465057373, r2:0.9226725026965141
+
+Autoformer62_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05623278766870499, mae:0.17602527141571045, rmse: 0.23713453114032745, r2:0.9327837154269218
+
+Autoformer64_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1566866934299469, mae:0.2695845365524292, rmse: 0.3958367109298706, r2:0.8127089738845825
+
+Autoformer65_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14555582404136658, mae:0.26102006435394287, rmse: 0.38151779770851135, r2:0.8260139375925064
+
+Autoformer67_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06811917573213577, mae:0.1889113187789917, rmse: 0.2609964907169342, r2:0.9185756593942642
+
+Autoformer68_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14791026711463928, mae:0.2770780622959137, rmse: 0.3845910429954529, r2:0.8231996297836304
+
+Autoformer70_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06407175213098526, mae:0.18053731322288513, rmse: 0.2531239986419678, r2:0.9234136343002319
+
+Autoformer71_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19352249801158905, mae:0.3072285056114197, rmse: 0.43991193175315857, r2:0.7686783224344254
+
+Autoformer73_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.01694345660507679, mae:0.08457051217556, rmse: 0.13016703724861145, r2:0.9797471165657043
+
+Autoformer74_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10122213512659073, mae:0.20374003052711487, rmse: 0.3181542754173279, r2:0.8790069743990898
+
+Autoformer76_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17533524334430695, mae:0.3070814907550812, rmse: 0.4187305271625519, r2:0.7904179394245148
+
+Autoformer77_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06232574209570885, mae:0.15839476883411407, rmse: 0.249651238322258, r2:0.925500676035881
+
+Autoformer79_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28607654571533203, mae:0.38007470965385437, rmse: 0.5348612666130066, r2:0.6580464541912079
+
+Autoformer80_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0316658690571785, mae:0.11125877499580383, rmse: 0.17794905602931976, r2:0.9621490947902203
+
+Autoformer82_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.034390486776828766, mae:0.11609752476215363, rmse: 0.18544672429561615, r2:0.9588923007249832
+
+Autoformer83_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04703538864850998, mae:0.13400708138942719, rmse: 0.21687643229961395, r2:0.943777572363615
+
+Autoformer85_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04126102104783058, mae:0.1423051804304123, rmse: 0.20312808454036713, r2:0.9506798014044762
+
+Autoformer86_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06615544855594635, mae:0.16253800690174103, rmse: 0.2572070062160492, r2:0.9209229424595833
+
+Autoformer88_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1167742982506752, mae:0.23479308187961578, rmse: 0.3417225480079651, r2:0.8604171276092529
+
+Autoformer89_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2836373746395111, mae:0.35865354537963867, rmse: 0.5325761437416077, r2:0.6609620451927185
+
+Autoformer91_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.041795406490564346, mae:0.1335354596376419, rmse: 0.20443925261497498, r2:0.9500410370528698
+
+Autoformer92_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25120770931243896, mae:0.3804669678211212, rmse: 0.5012062788009644, r2:0.6997259259223938
+
+Autoformer94_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22218188643455505, mae:0.2648221552371979, rmse: 0.4713617265224457, r2:0.7344211339950562
+
+Autoformer95_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4643024802207947, mae:0.4815163016319275, rmse: 0.6813974380493164, r2:0.44500911235809326
+
+Autoformer97_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.053575173020362854, mae:0.13932020962238312, rmse: 0.23146311938762665, r2:0.9359604269266129
+
+Autoformer98_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1674608588218689, mae:0.31100669503211975, rmse: 0.4092198312282562, r2:0.7998303771018982
+
+Autoformer100_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08288799226284027, mae:0.21214906871318817, rmse: 0.28790274262428284, r2:0.9009221717715263
+
+Autoformer101_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0874168649315834, mae:0.200356587767601, rmse: 0.295663446187973, r2:0.8955087140202522
+
+Autoformer103_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1595780998468399, mae:0.2864125967025757, rmse: 0.39947226643562317, r2:0.8092527985572815
+
+Autoformer104_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.046384334564209, mae:0.7967239022254944, rmse: 1.022929310798645, r2:-0.2507660388946533
+
+Autoformer106_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4033733904361725, mae:0.47916698455810547, rmse: 0.6351168155670166, r2:0.5178389549255371
+
+Autoformer107_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14532025158405304, mae:0.2842009663581848, rmse: 0.3812089264392853, r2:0.8262955248355865
+
+Autoformer109_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025059537962079048, mae:0.10953252017498016, rmse: 0.15830205380916595, r2:0.9700457882136106
+
+Autoformer110_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05322366580367088, mae:0.1510913372039795, rmse: 0.23070254921913147, r2:0.9363805875182152
+
+Autoformer112_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1487962007522583, mae:0.2920020818710327, rmse: 0.38574111461639404, r2:0.8221406489610672
+
+Autoformer113_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03821568936109543, mae:0.13371948897838593, rmse: 0.1954883337020874, r2:0.9543199501931667
+
+Autoformer115_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.030965624377131462, mae:0.12622836232185364, rmse: 0.17597052454948425, r2:0.9629861116409302
+
+Autoformer116_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14717397093772888, mae:0.26972144842147827, rmse: 0.3836326003074646, r2:0.8240797370672226
+
+Autoformer118_Autoformer_custom_ftMS_sl24_ll10_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.030503062531352043, mae:0.12746617197990417, rmse: 0.17465126514434814, r2:0.9635390229523182
+
+Autoformer119_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1305755078792572, mae:0.26292747259140015, rmse: 0.3613523244857788, r2:0.8439202308654785
+
+Autoformer121_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14399509131908417, mae:0.2856418192386627, rmse: 0.37946686148643494, r2:0.8278795182704926
+
+Autoformer122_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05634991079568863, mae:0.15592870116233826, rmse: 0.23738136887550354, r2:0.9326437190175056
+
+Autoformer124_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1806570589542389, mae:0.3109471797943115, rmse: 0.4250377118587494, r2:0.7840566635131836
+
+Autoformer125_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23826748132705688, mae:0.31153514981269836, rmse: 0.4881264865398407, r2:0.7151936888694763
+
+Autoformer127_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.021096963435411453, mae:0.10158543288707733, rmse: 0.1452479362487793, r2:0.9747823383659124
+
+Autoformer128_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0606551431119442, mae:0.1746731996536255, rmse: 0.2462826520204544, r2:0.9274975806474686
+
+Autoformer130_Autoformer_custom_ftMS_sl24_ll10_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1499924212694168, mae:0.288009911775589, rmse: 0.38728854060173035, r2:0.8207107782363892
+
+Autoformer131_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.48686322569847107, mae:0.5409198999404907, rmse: 0.6977558732032776, r2:0.41804176568984985
+
+Autoformer133_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06293383240699768, mae:0.17933784425258636, rmse: 0.250866174697876, r2:0.9247738122940063
+
+Autoformer134_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15933570265769958, mae:0.2461293786764145, rmse: 0.3991687595844269, r2:0.8095425516366959
+
+Autoformer136_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12817640602588654, mae:0.21334436535835266, rmse: 0.35801732540130615, r2:0.8467879295349121
+
+Autoformer137_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17002737522125244, mae:0.3063783347606659, rmse: 0.4123437702655792, r2:0.7967625558376312
+
+Autoformer139_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04639685899019241, mae:0.1496032327413559, rmse: 0.21539929509162903, r2:0.9445408210158348
+
+Autoformer140_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40529826283454895, mae:0.46195441484451294, rmse: 0.6366304159164429, r2:0.5155381262302399
+
+Autoformer142_Autoformer_custom_ftMS_sl24_ll10_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.7057100534439087, mae:0.6023029088973999, rmse: 0.8400654792785645, r2:0.1564493179321289
+
+Autoformer143_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10032434016466141, mae:0.2150530368089676, rmse: 0.3167401850223541, r2:0.8800801262259483
+
+Autoformer1_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11110614985227585, mae:0.23312434554100037, rmse: 0.33332589268684387, r2:0.8671923875808716
+
+Autoformer2_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2664954364299774, mae:0.3802662789821625, rmse: 0.5162319540977478, r2:0.6814521849155426
+
+Autoformer3_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17172598838806152, mae:0.27492356300354004, rmse: 0.41439834237098694, r2:0.7947321683168411
+
+Autoformer4_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05877087265253067, mae:0.15725325047969818, rmse: 0.2424270510673523, r2:0.9297498911619186
+
+Autoformer5_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23767270147800446, mae:0.3279150128364563, rmse: 0.4875168800354004, r2:0.7159046232700348
+
+Autoformer6_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04560151696205139, mae:0.14190073311328888, rmse: 0.21354511380195618, r2:0.945491511374712
+
+Autoformer7_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07857030630111694, mae:0.1926058977842331, rmse: 0.280303955078125, r2:0.9060831964015961
+
+Autoformer8_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17086872458457947, mae:0.2733573615550995, rmse: 0.4133627116680145, r2:0.7957568764686584
+
+Autoformer9_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10783399641513824, mae:0.22876954078674316, rmse: 0.32838088274002075, r2:0.8711036741733551
+
+Autoformer10_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07903464883565903, mae:0.18711255490779877, rmse: 0.2811310291290283, r2:0.9055281579494476
+
+Autoformer11_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12898774445056915, mae:0.23140916228294373, rmse: 0.35914865136146545, r2:0.8458181321620941
+
+Autoformer12_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09744130820035934, mae:0.20857401192188263, rmse: 0.31215590238571167, r2:0.8835262730717659
+
+Autoformer13_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0645667165517807, mae:0.1764419823884964, rmse: 0.2540998160839081, r2:0.9228219911456108
+
+Autoformer14_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12355438619852066, mae:0.23633764684200287, rmse: 0.35150304436683655, r2:0.8523127436637878
+
+Autoformer15_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10597645491361618, mae:0.21200670301914215, rmse: 0.3255402445793152, r2:0.8733240365982056
+
+Autoformer16_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3194621801376343, mae:0.40671658515930176, rmse: 0.5652098655700684, r2:0.6181398630142212
+
+Autoformer17_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16614845395088196, mae:0.25154024362564087, rmse: 0.4076131284236908, r2:0.8013991117477417
+
+Autoformer18_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3447726368904114, mae:0.40956035256385803, rmse: 0.5871734023094177, r2:0.5878857374191284
+
+Autoformer19_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11377982795238495, mae:0.2063024938106537, rmse: 0.3373126685619354, r2:0.8639964759349823
+
+Autoformer20_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.111906498670578, mae:0.20933383703231812, rmse: 0.3345242738723755, r2:0.8662357181310654
+
+Autoformer21_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07971202582120895, mae:0.1884949505329132, rmse: 0.2823331952095032, r2:0.9047184735536575
+
+Autoformer22_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07910013198852539, mae:0.18556822836399078, rmse: 0.28124746680259705, r2:0.9054498821496964
+
+Autoformer23_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18013787269592285, mae:0.27716854214668274, rmse: 0.42442652583122253, r2:0.7846772521734238
+
+Autoformer24_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14570502936840057, mae:0.285013347864151, rmse: 0.38171327114105225, r2:0.8258356004953384
+
+Autoformer25_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0805726945400238, mae:0.19192108511924744, rmse: 0.28385329246520996, r2:0.9036896899342537
+
+Autoformer26_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10742111504077911, mae:0.21063260734081268, rmse: 0.32775160670280457, r2:0.8715972006320953
+
+Autoformer27_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17596642673015594, mae:0.3009488880634308, rmse: 0.4194835126399994, r2:0.7896634787321091
+
+Autoformer28_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.41788944602012634, mae:0.4977845549583435, rmse: 0.6464436650276184, r2:0.5004875957965851
+
+Autoformer29_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12797711789608002, mae:0.24674028158187866, rmse: 0.3577388823032379, r2:0.8470261543989182
+
+Autoformer30_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1646863967180252, mae:0.2971569299697876, rmse: 0.4058157205581665, r2:0.8031467497348785
+
+Autoformer31_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4234809875488281, mae:0.45904213190078735, rmse: 0.6507541537284851, r2:0.4938039183616638
+
+Autoformer32_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10912569612264633, mae:0.20966710150241852, rmse: 0.33034178614616394, r2:0.8695596754550934
+
+Autoformer33_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28247782588005066, mae:0.4060779809951782, rmse: 0.531486451625824, r2:0.662348061800003
+
+Autoformer34_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5121524333953857, mae:0.43192967772483826, rmse: 0.7156482338905334, r2:0.3878130316734314
+
+Autoformer35_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13851849734783173, mae:0.24837936460971832, rmse: 0.3721807301044464, r2:0.8344258069992065
+
+Autoformer36_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15690651535987854, mae:0.2809697985649109, rmse: 0.3961142599582672, r2:0.8124462068080902
+
+Autoformer37_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07711546868085861, mae:0.18766383826732635, rmse: 0.27769672870635986, r2:0.9078221917152405
+
+Autoformer38_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15620680153369904, mae:0.24240966141223907, rmse: 0.3952300548553467, r2:0.8132825940847397
+
+Autoformer39_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11173063516616821, mae:0.21452002227306366, rmse: 0.33426132798194885, r2:0.866445928812027
+
+Autoformer40_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07194658368825912, mae:0.1803881973028183, rmse: 0.26822859048843384, r2:0.9140006750822067
+
+Autoformer41_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11107949167490005, mae:0.22516340017318726, rmse: 0.3332858979701996, r2:0.8672242611646652
+
+Autoformer42_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08692102134227753, mae:0.19537951052188873, rmse: 0.29482370615005493, r2:0.8961014077067375
+
+Autoformer43_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06656063348054886, mae:0.15655748546123505, rmse: 0.2579934895038605, r2:0.9204386174678802
+
+Autoformer44_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12799440324306488, mae:0.23280245065689087, rmse: 0.35776305198669434, r2:0.8470054864883423
+
+Autoformer45_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1001351922750473, mae:0.21829459071159363, rmse: 0.31644144654273987, r2:0.880306214094162
+
+Autoformer46_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08315987884998322, mae:0.19822180271148682, rmse: 0.28837454319000244, r2:0.9005971848964691
+
+Autoformer47_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1487106829881668, mae:0.2546929121017456, rmse: 0.3856302499771118, r2:0.822242870926857
+
+Autoformer48_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09361562877893448, mae:0.2057056725025177, rmse: 0.30596670508384705, r2:0.8880991861224174
+
+Autoformer49_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6448202133178711, mae:0.5508329272270203, rmse: 0.8030070066452026, r2:0.2292323112487793
+
+Autoformer50_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07502075284719467, mae:0.16148681938648224, rmse: 0.2738991677761078, r2:0.9103260561823845
+
+Autoformer51_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08832581341266632, mae:0.197531059384346, rmse: 0.2971965968608856, r2:0.8944222256541252
+
+Autoformer52_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10436438769102097, mae:0.22626888751983643, rmse: 0.3230547606945038, r2:0.8752509728074074
+
+Autoformer53_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2611660063266754, mae:0.36669233441352844, rmse: 0.5110440254211426, r2:0.687822550535202
+
+Autoformer54_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11325886845588684, mae:0.21358749270439148, rmse: 0.33653953671455383, r2:0.8646191954612732
+
+Autoformer55_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14241082966327667, mae:0.27636054158210754, rmse: 0.377373605966568, r2:0.8297732323408127
+
+Autoformer56_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14687497913837433, mae:0.2589414715766907, rmse: 0.38324272632598877, r2:0.8244371265172958
+
+Autoformer57_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11473497003316879, mae:0.23999609053134918, rmse: 0.3387255072593689, r2:0.8628547787666321
+
+Autoformer58_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1126086637377739, mae:0.23636960983276367, rmse: 0.33557215332984924, r2:0.8653964102268219
+
+Autoformer59_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2744123637676239, mae:0.38278552889823914, rmse: 0.5238438248634338, r2:0.6719889044761658
+
+Autoformer60_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10388798266649246, mae:0.21715247631072998, rmse: 0.32231658697128296, r2:0.8758204206824303
+
+Autoformer61_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1175147220492363, mae:0.2310335785150528, rmse: 0.3428041934967041, r2:0.8595320731401443
+
+Autoformer62_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19959776103496552, mae:0.3062860071659088, rmse: 0.44676366448402405, r2:0.7614164352416992
+
+Autoformer63_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23449300229549408, mae:0.3847925662994385, rmse: 0.48424476385116577, r2:0.7197054028511047
+
+Autoformer64_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10767760127782822, mae:0.23728182911872864, rmse: 0.3281426429748535, r2:0.8712906092405319
+
+Autoformer65_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23156988620758057, mae:0.33673352003097534, rmse: 0.48121708631515503, r2:0.7231994569301605
+
+Autoformer66_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08043751865625381, mae:0.1979493945837021, rmse: 0.2836150825023651, r2:0.9038512706756592
+
+Autoformer67_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.060878459364175797, mae:0.15662765502929688, rmse: 0.2467356026172638, r2:0.9272306486964226
+
+Autoformer68_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13958802819252014, mae:0.2437002956867218, rmse: 0.3736148178577423, r2:0.8331473767757416
+
+Autoformer69_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07080546766519547, mae:0.16415081918239594, rmse: 0.2660929560661316, r2:0.9153646752238274
+
+Autoformer70_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.914148211479187, mae:0.5740159153938293, rmse: 0.956110954284668, r2:-0.09270131587982178
+
+Autoformer71_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.4704734086990356, mae:0.9570631980895996, rmse: 1.2126307487487793, r2:-0.7576888799667358
+
+Autoformer72_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20290754735469818, mae:0.3279704749584198, rmse: 0.450452595949173, r2:0.7574601769447327
+
+Autoformer73_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06155828386545181, mae:0.1613331288099289, rmse: 0.24810941517353058, r2:0.9264180362224579
+
+Autoformer74_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10382065922021866, mae:0.19821450114250183, rmse: 0.3222121298313141, r2:0.8759009018540382
+
+Autoformer75_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08134710788726807, mae:0.20075219869613647, rmse: 0.2852141559123993, r2:0.9027640223503113
+
+Autoformer76_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09223880618810654, mae:0.1915961652994156, rmse: 0.30370843410491943, r2:0.889744944870472
+
+Autoformer77_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12688635289669037, mae:0.20122988522052765, rmse: 0.3562110960483551, r2:0.8483299612998962
+
+Autoformer78_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09913493692874908, mae:0.21034686267375946, rmse: 0.31485700607299805, r2:0.8815018460154533
+
+Autoformer79_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12214858084917068, mae:0.24378949403762817, rmse: 0.34949761629104614, r2:0.8539931327104568
+
+Autoformer80_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11525771021842957, mae:0.20657680928707123, rmse: 0.3394962549209595, r2:0.8622299432754517
+
+Autoformer81_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14854948222637177, mae:0.24732168018817902, rmse: 0.38542118668556213, r2:0.8224355578422546
+
+Autoformer82_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08636803925037384, mae:0.18593063950538635, rmse: 0.29388439655303955, r2:0.8967623934149742
+
+Autoformer83_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13629359006881714, mae:0.2314358949661255, rmse: 0.3691796064376831, r2:0.8370852917432785
+
+Autoformer84_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4472474455833435, mae:0.45915552973747253, rmse: 0.6687656044960022, r2:0.46539533138275146
+
+Autoformer85_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06817760318517685, mae:0.178818941116333, rmse: 0.2611083984375, r2:0.9185058251023293
+
+Autoformer86_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10580970346927643, mae:0.21049074828624725, rmse: 0.32528403401374817, r2:0.8735233545303345
+
+Autoformer87_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1252928525209427, mae:0.22613617777824402, rmse: 0.3539673089981079, r2:0.850234717130661
+
+Autoformer88_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09057117253541946, mae:0.20909015834331512, rmse: 0.30095043778419495, r2:0.8917383030056953
+
+Autoformer89_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15819884836673737, mae:0.2588579058647156, rmse: 0.3977421820163727, r2:0.8109014630317688
+
+Autoformer90_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.138875812292099, mae:0.2626274526119232, rmse: 0.37266045808792114, r2:0.8339987099170685
+
+Autoformer91_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06723441928625107, mae:0.1771799921989441, rmse: 0.2592960000038147, r2:0.9196332320570946
+
+Autoformer92_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1542721539735794, mae:0.2729332149028778, rmse: 0.39277493953704834, r2:0.8155951201915741
+
+Autoformer93_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07015829533338547, mae:0.17042945325374603, rmse: 0.26487410068511963, r2:0.9161382541060448
+
+Autoformer94_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16076616942882538, mae:0.26949039101600647, rmse: 0.40095657110214233, r2:0.8078326731920242
+
+Autoformer95_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.27419036626815796, mae:0.3885759115219116, rmse: 0.5236318707466125, r2:0.6722542345523834
+
+Autoformer96_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10228169709444046, mae:0.2051982432603836, rmse: 0.31981509923934937, r2:0.8777404502034187
+
+Autoformer97_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1242278516292572, mae:0.2371186763048172, rmse: 0.35245972871780396, r2:0.8515077233314514
+
+Autoformer98_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1776551902294159, mae:0.2944239675998688, rmse: 0.4214916229248047, r2:0.7876448631286621
+
+Autoformer99_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16190041601657867, mae:0.2934679687023163, rmse: 0.4023685157299042, r2:0.806476891040802
+
+Autoformer100_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.227694571018219, mae:0.3277997374534607, rmse: 0.4771735370159149, r2:0.7278316915035248
+
+Autoformer101_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3228102922439575, mae:0.42187148332595825, rmse: 0.5681639909744263, r2:0.6141378283500671
+
+Autoformer102_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18753725290298462, mae:0.3064005374908447, rmse: 0.43305572867393494, r2:0.7758326232433319
+
+Autoformer103_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11283992230892181, mae:0.23425352573394775, rmse: 0.33591654896736145, r2:0.8651199787855148
+
+Autoformer104_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11546491086483002, mae:0.22353410720825195, rmse: 0.33980128169059753, r2:0.8619822710752487
+
+Autoformer105_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.388712614774704, mae:0.46930131316185, rmse: 0.6234682202339172, r2:0.5353633165359497
+
+Autoformer106_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.8739362955093384, mae:0.6516065001487732, rmse: 0.9348456263542175, r2:-0.04463517665863037
+
+Autoformer107_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15504342317581177, mae:0.26367706060409546, rmse: 0.3937555253505707, r2:0.8146732002496719
+
+Autoformer108_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06467466056346893, mae:0.1635962575674057, rmse: 0.254312127828598, r2:0.9226929694414139
+
+Autoformer109_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09735696762800217, mae:0.21592159569263458, rmse: 0.31202077865600586, r2:0.8836270868778229
+
+Autoformer110_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2035159021615982, mae:0.26173436641693115, rmse: 0.45112738013267517, r2:0.7567330002784729
+
+Autoformer111_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.33736559748649597, mae:0.42214450240135193, rmse: 0.5808318257331848, r2:0.5967395305633545
+
+Autoformer112_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.30818095803260803, mae:0.3960965573787689, rmse: 0.555140495300293, r2:0.6316245496273041
+
+Autoformer113_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3434692621231079, mae:0.34385237097740173, rmse: 0.586062490940094, r2:0.5894436538219452
+
+Autoformer114_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06455490738153458, mae:0.1663728952407837, rmse: 0.2540765702724457, r2:0.922836109995842
+
+Autoformer115_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.061200909316539764, mae:0.16165904700756073, rmse: 0.24738816916942596, r2:0.9268452152609825
+
+Autoformer116_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14109641313552856, mae:0.23373015224933624, rmse: 0.3756280243396759, r2:0.8313443660736084
+
+Autoformer117_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24140162765979767, mae:0.3462904393672943, rmse: 0.49132639169692993, r2:0.7114473581314087
+
+Autoformer118_Autoformer_custom_ftMS_sl48_ll10_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1258099228143692, mae:0.24112440645694733, rmse: 0.35469695925712585, r2:0.8496166616678238
+
+Autoformer119_Autoformer_custom_ftMS_sl48_ll24_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19001896679401398, mae:0.2612220346927643, rmse: 0.4359116554260254, r2:0.7728661745786667
+
+Autoformer120_Autoformer_custom_ftMS_sl48_ll48_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14457660913467407, mae:0.25173452496528625, rmse: 0.3802323043346405, r2:0.8271844238042831
+
+Autoformer121_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10167864710092545, mae:0.20441071689128876, rmse: 0.3188709020614624, r2:0.8784612864255905
+
+Autoformer122_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13292783498764038, mae:0.22580978274345398, rmse: 0.36459270119667053, r2:0.8411084413528442
+
+Autoformer123_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3320322036743164, mae:0.42656072974205017, rmse: 0.5762223601341248, r2:0.603114664554596
+
+Autoformer124_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13457736372947693, mae:0.26070746779441833, rmse: 0.3668478727340698, r2:0.8391367495059967
+
+Autoformer125_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1731790006160736, mae:0.27384087443351746, rmse: 0.41614779829978943, r2:0.792995348572731
+
+Autoformer126_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14940980076789856, mae:0.25851914286613464, rmse: 0.38653564453125, r2:0.8214071989059448
+
+Autoformer127_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08380676805973053, mae:0.19305531680583954, rmse: 0.28949397802352905, r2:0.899823933839798
+
+Autoformer128_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15676608681678772, mae:0.2743046283721924, rmse: 0.3959369659423828, r2:0.8126140683889389
+
+Autoformer129_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06473992019891739, mae:0.17856979370117188, rmse: 0.25444039702415466, r2:0.9226149618625641
+
+Autoformer130_Autoformer_custom_ftMS_sl48_ll10_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.9104970693588257, mae:1.031032919883728, rmse: 1.3822072744369507, r2:-1.2836589813232422
+
+Autoformer131_Autoformer_custom_ftMS_sl48_ll24_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13946978747844696, mae:0.23492155969142914, rmse: 0.37345653772354126, r2:0.8332887291908264
+
+Autoformer132_Autoformer_custom_ftMS_sl48_ll48_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2943405508995056, mae:0.41433781385421753, rmse: 0.5425316095352173, r2:0.6481683254241943
+
+Autoformer133_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09477151185274124, mae:0.1928551197052002, rmse: 0.30784982442855835, r2:0.8867175430059433
+
+Autoformer134_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6599380373954773, mae:0.62957364320755, rmse: 0.812365710735321, r2:0.21116161346435547
+
+Autoformer135_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09906452894210815, mae:0.22333605587482452, rmse: 0.3147451877593994, r2:0.8815860003232956
+
+Autoformer136_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3286825120449066, mae:0.3577019274234772, rmse: 0.5733084082603455, r2:0.6071186065673828
+
+Autoformer137_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6001567244529724, mae:0.5220780968666077, rmse: 0.7746978402137756, r2:0.28261953592300415
+
+Autoformer138_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11017584055662155, mae:0.2092234194278717, rmse: 0.33192744851112366, r2:0.8683044016361237
+
+Autoformer139_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40851452946662903, mae:0.45935457944869995, rmse: 0.639151394367218, r2:0.5116936564445496
+
+Autoformer140_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14802318811416626, mae:0.2567283511161804, rmse: 0.3847378194332123, r2:0.8230646401643753
+
+Autoformer141_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09187342971563339, mae:0.19971972703933716, rmse: 0.30310630798339844, r2:0.8901816830039024
+
+Autoformer142_Autoformer_custom_ftMS_sl48_ll10_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10853417217731476, mae:0.21913090348243713, rmse: 0.3294452428817749, r2:0.8702667355537415
+
+Autoformer143_Autoformer_custom_ftMS_sl48_ll24_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1376551240682602, mae:0.25376662611961365, rmse: 0.37101903557777405, r2:0.8354578167200089
+
+Autoformer144_Autoformer_custom_ftMS_sl48_ll48_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21910360455513, mae:0.3365001678466797, rmse: 0.46808505058288574, r2:0.738100677728653
+
+Autoformer1_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1761992871761322, mae:0.2886115610599518, rmse: 0.4197610020637512, r2:0.7893851399421692
+
+Autoformer2_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22243846952915192, mae:0.3078252375125885, rmse: 0.47163382172584534, r2:0.7341144382953644
+
+Autoformer3_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2056739628314972, mae:0.29669421911239624, rmse: 0.45351290702819824, r2:0.7541534155607224
+
+Autoformer4_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1665600687265396, mae:0.27809834480285645, rmse: 0.40811771154403687, r2:0.8009071201086044
+
+Autoformer5_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22202607989311218, mae:0.2915542423725128, rmse: 0.4711964428424835, r2:0.7346073687076569
+
+Autoformer6_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17805986106395721, mae:0.2641201317310333, rmse: 0.4219714105129242, r2:0.7871611565351486
+
+Autoformer7_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16751129925251007, mae:0.28712964057922363, rmse: 0.4092814326286316, r2:0.7997700870037079
+
+Autoformer8_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2122119814157486, mae:0.2831681966781616, rmse: 0.4606647193431854, r2:0.7463383674621582
+
+Autoformer9_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18257340788841248, mae:0.2682560980319977, rmse: 0.4272860884666443, r2:0.7817660123109818
+
+Autoformer10_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14964427053928375, mae:0.2590191066265106, rmse: 0.3868388235569, r2:0.8211269378662109
+
+Autoformer11_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15686385333538055, mae:0.2440309226512909, rmse: 0.39606040716171265, r2:0.8124972134828568
+
+Autoformer12_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22879144549369812, mae:0.3209318518638611, rmse: 0.47832149267196655, r2:0.7265205681324005
+
+Autoformer13_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12624669075012207, mae:0.21652747690677643, rmse: 0.3553121089935303, r2:0.849094569683075
+
+Autoformer14_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1800452172756195, mae:0.279110848903656, rmse: 0.4243173599243164, r2:0.7847880125045776
+
+Autoformer15_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20836974680423737, mae:0.2905982732772827, rmse: 0.4564753472805023, r2:0.7509310990571976
+
+Autoformer16_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1672637015581131, mae:0.24242888391017914, rmse: 0.4089788496494293, r2:0.8000660389661789
+
+Autoformer17_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2452380657196045, mae:0.33662497997283936, rmse: 0.49521517753601074, r2:0.7068615853786469
+
+Autoformer18_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16188707947731018, mae:0.2570120394229889, rmse: 0.4023519456386566, r2:0.8064928352832794
+
+Autoformer19_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1841176599264145, mae:0.3017439842224121, rmse: 0.42908933758735657, r2:0.7799201309680939
+
+Autoformer20_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20646214485168457, mae:0.2877621054649353, rmse: 0.4543810486793518, r2:0.7532112896442413
+
+Autoformer21_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23551982641220093, mae:0.33620378375053406, rmse: 0.4853038489818573, r2:0.7184779942035675
+
+Autoformer22_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26170408725738525, mae:0.35130026936531067, rmse: 0.5115702152252197, r2:0.6871793568134308
+
+Autoformer23_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2160242795944214, mae:0.3040219247341156, rmse: 0.4647841155529022, r2:0.7417814433574677
+
+Autoformer24_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22903525829315186, mae:0.29444900155067444, rmse: 0.47857627272605896, r2:0.7262291610240936
+
+Autoformer25_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15181054174900055, mae:0.26924729347229004, rmse: 0.38962870836257935, r2:0.8185375332832336
+
+Autoformer26_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24478894472122192, mae:0.332876980304718, rmse: 0.49476149678230286, r2:0.7073984444141388
+
+Autoformer27_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3134148120880127, mae:0.3874654769897461, rmse: 0.5598345994949341, r2:0.6253684163093567
+
+Autoformer28_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3727012574672699, mae:0.42825841903686523, rmse: 0.6104926466941833, r2:0.5545020401477814
+
+Autoformer29_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17324498295783997, mae:0.2686217129230499, rmse: 0.4162270724773407, r2:0.792916476726532
+
+Autoformer30_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.354721337556839, mae:0.41882723569869995, rmse: 0.5955848693847656, r2:0.5759938359260559
+
+Autoformer31_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21177636086940765, mae:0.3320353031158447, rmse: 0.46019166707992554, r2:0.746859073638916
+
+Autoformer32_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25088033080101013, mae:0.3082694411277771, rmse: 0.5008795857429504, r2:0.7001172602176666
+
+Autoformer33_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1632007509469986, mae:0.2501012682914734, rmse: 0.40398111939430237, r2:0.804922565817833
+
+Autoformer34_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2673628032207489, mae:0.3623729944229126, rmse: 0.5170713663101196, r2:0.6804154217243195
+
+Autoformer35_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.29993411898612976, mae:0.36864882707595825, rmse: 0.5476624369621277, r2:0.6414821743965149
+
+Autoformer36_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3464067280292511, mae:0.4436832368373871, rmse: 0.5885632634162903, r2:0.5859324634075165
+
+Autoformer37_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.135661780834198, mae:0.25010740756988525, rmse: 0.3683229386806488, r2:0.8378405123949051
+
+Autoformer38_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16953842341899872, mae:0.2651509940624237, rmse: 0.4117504358291626, r2:0.7973470240831375
+
+Autoformer39_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19083109498023987, mae:0.2698546350002289, rmse: 0.4368421733379364, r2:0.7718954086303711
+
+Autoformer40_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14220355451107025, mae:0.2479267567396164, rmse: 0.37709885835647583, r2:0.8300209790468216
+
+Autoformer41_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22314026951789856, mae:0.30769315361976624, rmse: 0.4723772406578064, r2:0.7332755625247955
+
+Autoformer42_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2158735990524292, mae:0.2957708537578583, rmse: 0.46462199091911316, r2:0.7419615685939789
+
+Autoformer43_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12248475104570389, mae:0.2278861701488495, rmse: 0.3499782085418701, r2:0.8535913079977036
+
+Autoformer44_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18927395343780518, mae:0.2535824775695801, rmse: 0.43505626916885376, r2:0.7737566977739334
+
+Autoformer45_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16810761392116547, mae:0.24852445721626282, rmse: 0.4100092947483063, r2:0.7990572899580002
+
+Autoformer46_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15771935880184174, mae:0.2590818703174591, rmse: 0.39713895320892334, r2:0.8114745914936066
+
+Autoformer47_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18808893859386444, mae:0.26054152846336365, rmse: 0.43369221687316895, r2:0.7751731872558594
+
+Autoformer48_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19478145241737366, mae:0.2563927173614502, rmse: 0.44134050607681274, r2:0.7671734690666199
+
+Autoformer49_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20599496364593506, mae:0.3046703636646271, rmse: 0.4538666903972626, r2:0.753769725561142
+
+Autoformer50_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16257688403129578, mae:0.2397894263267517, rmse: 0.4032082259654999, r2:0.805668294429779
+
+Autoformer51_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2381744086742401, mae:0.30584776401519775, rmse: 0.48803114891052246, r2:0.7153049409389496
+
+Autoformer52_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1988406777381897, mae:0.3259057104587555, rmse: 0.445915549993515, r2:0.7623213827610016
+
+Autoformer53_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2234477996826172, mae:0.3122052848339081, rmse: 0.47270265221595764, r2:0.7329079508781433
+
+Autoformer54_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28545859456062317, mae:0.35168251395225525, rmse: 0.5342832803726196, r2:0.6587851047515869
+
+Autoformer55_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18898506462574005, mae:0.30771154165267944, rmse: 0.4347241222858429, r2:0.7741020172834396
+
+Autoformer56_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17739975452423096, mae:0.27303802967071533, rmse: 0.42118850350379944, r2:0.7879502028226852
+
+Autoformer57_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17813721299171448, mae:0.25330179929733276, rmse: 0.42206305265426636, r2:0.7870686948299408
+
+Autoformer58_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22109799087047577, mae:0.349092036485672, rmse: 0.47021058201789856, r2:0.7357167303562164
+
+Autoformer59_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23669908940792084, mae:0.3409833014011383, rmse: 0.4865173101425171, r2:0.7170684039592743
+
+Autoformer60_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25802603363990784, mae:0.34760215878486633, rmse: 0.5079626441001892, r2:0.6915758550167084
+
+Autoformer61_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14548440277576447, mae:0.2516833245754242, rmse: 0.3814241886138916, r2:0.826099306344986
+
+Autoformer62_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23227733373641968, mae:0.30623725056648254, rmse: 0.48195159435272217, r2:0.7223538458347321
+
+Autoformer63_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28939369320869446, mae:0.3616074025630951, rmse: 0.53795325756073, r2:0.6540813744068146
+
+Autoformer64_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.37052851915359497, mae:0.4546132981777191, rmse: 0.608710527420044, r2:0.5570991635322571
+
+Autoformer65_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:2.3748598098754883, mae:1.15353262424469, rmse: 1.54105806350708, r2:-1.838721752166748
+
+Autoformer66_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23480336368083954, mae:0.29414981603622437, rmse: 0.4845651388168335, r2:0.7193343937397003
+
+Autoformer67_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18942385911941528, mae:0.3006029725074768, rmse: 0.43522852659225464, r2:0.7735775262117386
+
+Autoformer68_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3628270924091339, mae:0.41891154646873474, rmse: 0.6023513078689575, r2:0.5663048624992371
+
+Autoformer69_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22400741279125214, mae:0.29790180921554565, rmse: 0.4732942283153534, r2:0.7322390377521515
+
+Autoformer70_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5795277953147888, mae:0.5592219233512878, rmse: 0.7612672448158264, r2:0.30727773904800415
+
+Autoformer71_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23124386370182037, mae:0.34193891286849976, rmse: 0.48087823390960693, r2:0.723589152097702
+
+Autoformer72_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3735276460647583, mae:0.42626720666885376, rmse: 0.6111690998077393, r2:0.5535142421722412
+
+Autoformer73_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12324753403663635, mae:0.2252826690673828, rmse: 0.3510662913322449, r2:0.8526795208454132
+
+Autoformer74_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1650206446647644, mae:0.24622826278209686, rmse: 0.40622732043266296, r2:0.8027472048997879
+
+Autoformer75_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17904993891716003, mae:0.262823224067688, rmse: 0.4231429398059845, r2:0.785977691411972
+
+Autoformer76_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12769010663032532, mae:0.23219017684459686, rmse: 0.3573375344276428, r2:0.8473692238330841
+
+Autoformer77_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2532331347465515, mae:0.32491129636764526, rmse: 0.5032227635383606, r2:0.697304904460907
+
+Autoformer78_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2522246241569519, mae:0.3420048654079437, rmse: 0.5022196769714355, r2:0.6985104084014893
+
+Autoformer79_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13136106729507446, mae:0.22487233579158783, rmse: 0.3624376654624939, r2:0.8429812341928482
+
+Autoformer80_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21696095168590546, mae:0.27450624108314514, rmse: 0.46579065918922424, r2:0.7406618297100067
+
+Autoformer81_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16926851868629456, mae:0.25405097007751465, rmse: 0.4114225506782532, r2:0.7976696342229843
+
+Autoformer82_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2486954927444458, mae:0.31151282787323, rmse: 0.4986937940120697, r2:0.7027288377285004
+
+Autoformer83_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18026530742645264, mae:0.25696784257888794, rmse: 0.42457661032676697, r2:0.7845249325037003
+
+Autoformer84_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2542406916618347, mae:0.33001628518104553, rmse: 0.5042228698730469, r2:0.6961005330085754
+
+Autoformer85_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3657451868057251, mae:0.35148975253105164, rmse: 0.604768693447113, r2:0.5628167986869812
+
+Autoformer86_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23069524765014648, mae:0.3127742409706116, rmse: 0.4803074598312378, r2:0.7242449223995209
+
+Autoformer87_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18116578459739685, mae:0.2513776421546936, rmse: 0.42563575506210327, r2:0.7834485769271851
+
+Autoformer88_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16492272913455963, mae:0.2785733640193939, rmse: 0.4061067998409271, r2:0.8028642684221268
+
+Autoformer89_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.34514856338500977, mae:0.41176337003707886, rmse: 0.5874934792518616, r2:0.5874363780021667
+
+Autoformer90_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20546084642410278, mae:0.29505252838134766, rmse: 0.4532778859138489, r2:0.7544081658124924
+
+Autoformer91_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13985675573349, mae:0.23978623747825623, rmse: 0.3739742636680603, r2:0.832826167345047
+
+Autoformer92_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.33759957551956177, mae:0.37792694568634033, rmse: 0.5810331702232361, r2:0.596459835767746
+
+Autoformer93_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20956984162330627, mae:0.3005850613117218, rmse: 0.45778799057006836, r2:0.749496579170227
+
+Autoformer94_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20211736857891083, mae:0.3102545440196991, rmse: 0.44957464933395386, r2:0.7584046870470047
+
+Autoformer95_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1927722692489624, mae:0.2812536656856537, rmse: 0.439058393239975, r2:0.7695750892162323
+
+Autoformer96_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3767358064651489, mae:0.4569719135761261, rmse: 0.6137880682945251, r2:0.5496794581413269
+
+Autoformer97_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2801905572414398, mae:0.37007492780685425, rmse: 0.529330313205719, r2:0.6650820970535278
+
+Autoformer98_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2536177337169647, mae:0.32690486311912537, rmse: 0.5036047101020813, r2:0.6968452036380768
+
+Autoformer99_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24703924357891083, mae:0.3243030607700348, rmse: 0.49703043699264526, r2:0.7047085762023926
+
+Autoformer100_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.1049760580062866, mae:0.8137130737304688, rmse: 1.0511784553527832, r2:-0.32080209255218506
+
+Autoformer101_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6240482330322266, mae:0.5273073315620422, rmse: 0.7899672389030457, r2:0.2540615200996399
+
+Autoformer102_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3951176106929779, mae:0.43628960847854614, rmse: 0.6285837888717651, r2:0.5277073085308075
+
+Autoformer103_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20151594281196594, mae:0.29929420351982117, rmse: 0.44890525937080383, r2:0.7591235935688019
+
+Autoformer104_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.345479816198349, mae:0.39424848556518555, rmse: 0.5877752900123596, r2:0.5870404243469238
+
+Autoformer105_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19346798956394196, mae:0.2666334807872772, rmse: 0.43984997272491455, r2:0.768743485212326
+
+Autoformer106_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.33742713928222656, mae:0.37733137607574463, rmse: 0.5808848142623901, r2:0.5966659784317017
+
+Autoformer107_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4110278785228729, mae:0.4538903534412384, rmse: 0.6411145329475403, r2:0.5086894035339355
+
+Autoformer108_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3097511827945709, mae:0.37237977981567383, rmse: 0.5565529465675354, r2:0.6297476291656494
+
+Autoformer109_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1677282452583313, mae:0.2620197832584381, rmse: 0.4095463752746582, r2:0.7995107620954514
+
+Autoformer110_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19940461218357086, mae:0.2717598080635071, rmse: 0.4465474486351013, r2:0.7616472989320755
+
+Autoformer111_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20773355662822723, mae:0.29562506079673767, rmse: 0.45577797293663025, r2:0.751691535115242
+
+Autoformer112_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21665729582309723, mae:0.3153727650642395, rmse: 0.46546459197998047, r2:0.7410247921943665
+
+Autoformer113_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21061652898788452, mae:0.288708359003067, rmse: 0.45892977714538574, r2:0.7482454478740692
+
+Autoformer114_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1996404230594635, mae:0.2755635976791382, rmse: 0.44681140780448914, r2:0.7613654285669327
+
+Autoformer115_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17218491435050964, mae:0.28264662623405457, rmse: 0.41495171189308167, r2:0.794183611869812
+
+Autoformer116_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19651278853416443, mae:0.2625758647918701, rmse: 0.4432976245880127, r2:0.7651039808988571
+
+Autoformer117_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18892508745193481, mae:0.2791195213794708, rmse: 0.4346551299095154, r2:0.7741737216711044
+
+Autoformer118_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16936734318733215, mae:0.2666440010070801, rmse: 0.4115426242351532, r2:0.7975514978170395
+
+Autoformer119_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3472755253314972, mae:0.39731961488723755, rmse: 0.5893008708953857, r2:0.5848939716815948
+
+Autoformer120_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2252756506204605, mae:0.29330798983573914, rmse: 0.4746321141719818, r2:0.7307230830192566
+
+Autoformer121_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13667871057987213, mae:0.23563839495182037, rmse: 0.3697008490562439, r2:0.8366249352693558
+
+Autoformer122_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2360532581806183, mae:0.30672168731689453, rmse: 0.4858531355857849, r2:0.7178403735160828
+
+Autoformer123_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1818457394838333, mae:0.2612801492214203, rmse: 0.4264337420463562, r2:0.782635822892189
+
+Autoformer124_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1611505150794983, mae:0.2511874735355377, rmse: 0.4014355540275574, r2:0.8073732554912567
+
+Autoformer125_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2559056580066681, mae:0.32838940620422363, rmse: 0.5058711767196655, r2:0.6941103637218475
+
+Autoformer126_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.31259509921073914, mae:0.3866542875766754, rmse: 0.5591020584106445, r2:0.6263482570648193
+
+Autoformer127_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12021052092313766, mae:0.21542410552501678, rmse: 0.3467139005661011, r2:0.8563097268342972
+
+Autoformer128_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23605327308177948, mae:0.2956857681274414, rmse: 0.4858531355857849, r2:0.7178403735160828
+
+Autoformer129_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18864890933036804, mae:0.26844504475593567, rmse: 0.434337317943573, r2:0.7745038270950317
+
+Autoformer130_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15682627260684967, mae:0.2542319893836975, rmse: 0.39601296186447144, r2:0.812542125582695
+
+Autoformer131_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2322022169828415, mae:0.32069528102874756, rmse: 0.48187366127967834, r2:0.7224436104297638
+
+Autoformer132_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2159755676984787, mae:0.29257267713546753, rmse: 0.46473172307014465, r2:0.7418396770954132
+
+Autoformer133_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.446158230304718, mae:0.4891144335269928, rmse: 0.6679507493972778, r2:0.4666972756385803
+
+Autoformer134_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20510300993919373, mae:0.27858906984329224, rmse: 0.4528830051422119, r2:0.7548358887434006
+
+Autoformer135_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3272278606891632, mae:0.3944147527217865, rmse: 0.5720383524894714, r2:0.6088573932647705
+
+Autoformer136_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5069329142570496, mae:0.5608513951301575, rmse: 0.7119922041893005, r2:0.39405202865600586
+
+Autoformer137_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28551897406578064, mae:0.37907928228378296, rmse: 0.5343397259712219, r2:0.6587129235267639
+
+Autoformer138_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3264293372631073, mae:0.36907416582107544, rmse: 0.5713399648666382, r2:0.6098118722438812
+
+Autoformer139_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15115894377231598, mae:0.24125812947750092, rmse: 0.38879165053367615, r2:0.8193164169788361
+
+Autoformer140_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2235364019870758, mae:0.298054039478302, rmse: 0.47279635071754456, r2:0.7328020334243774
+
+Autoformer1_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1761992871761322, mae:0.2886115610599518, rmse: 0.4197610020637512, r2:0.7893851399421692
+
+Autoformer2_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22243846952915192, mae:0.3078252375125885, rmse: 0.47163382172584534, r2:0.7341144382953644
+
+Autoformer3_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2056739628314972, mae:0.29669421911239624, rmse: 0.45351290702819824, r2:0.7541534155607224
+
+Autoformer4_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1665600687265396, mae:0.27809834480285645, rmse: 0.40811771154403687, r2:0.8009071201086044
+
+Autoformer5_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22202607989311218, mae:0.2915542423725128, rmse: 0.4711964428424835, r2:0.7346073687076569
+
+Autoformer6_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17805986106395721, mae:0.2641201317310333, rmse: 0.4219714105129242, r2:0.7871611565351486
+
+Autoformer7_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16751129925251007, mae:0.28712964057922363, rmse: 0.4092814326286316, r2:0.7997700870037079
+
+Autoformer8_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2122119814157486, mae:0.2831681966781616, rmse: 0.4606647193431854, r2:0.7463383674621582
+
+Autoformer9_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18257340788841248, mae:0.2682560980319977, rmse: 0.4272860884666443, r2:0.7817660123109818
+
+Autoformer10_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14964427053928375, mae:0.2590191066265106, rmse: 0.3868388235569, r2:0.8211269378662109
+
+Autoformer11_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15686385333538055, mae:0.2440309226512909, rmse: 0.39606040716171265, r2:0.8124972134828568
+
+Autoformer12_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22879144549369812, mae:0.3209318518638611, rmse: 0.47832149267196655, r2:0.7265205681324005
+
+Autoformer13_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12624669075012207, mae:0.21652747690677643, rmse: 0.3553121089935303, r2:0.849094569683075
+
+Autoformer14_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1800452172756195, mae:0.279110848903656, rmse: 0.4243173599243164, r2:0.7847880125045776
+
+Autoformer15_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20836974680423737, mae:0.2905982732772827, rmse: 0.4564753472805023, r2:0.7509310990571976
+
+Autoformer16_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1672637015581131, mae:0.24242888391017914, rmse: 0.4089788496494293, r2:0.8000660389661789
+
+Autoformer17_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2452380657196045, mae:0.33662497997283936, rmse: 0.49521517753601074, r2:0.7068615853786469
+
+Autoformer18_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16188707947731018, mae:0.2570120394229889, rmse: 0.4023519456386566, r2:0.8064928352832794
+
+Autoformer19_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1841176599264145, mae:0.3017439842224121, rmse: 0.42908933758735657, r2:0.7799201309680939
+
+Autoformer20_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20646214485168457, mae:0.2877621054649353, rmse: 0.4543810486793518, r2:0.7532112896442413
+
+Autoformer21_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23551982641220093, mae:0.33620378375053406, rmse: 0.4853038489818573, r2:0.7184779942035675
+
+Autoformer22_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26170408725738525, mae:0.35130026936531067, rmse: 0.5115702152252197, r2:0.6871793568134308
+
+Autoformer23_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2160242795944214, mae:0.3040219247341156, rmse: 0.4647841155529022, r2:0.7417814433574677
+
+Autoformer24_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22903525829315186, mae:0.29444900155067444, rmse: 0.47857627272605896, r2:0.7262291610240936
+
+Autoformer25_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15181054174900055, mae:0.26924729347229004, rmse: 0.38962870836257935, r2:0.8185375332832336
+
+Autoformer26_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24478894472122192, mae:0.332876980304718, rmse: 0.49476149678230286, r2:0.7073984444141388
+
+Autoformer27_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3134148120880127, mae:0.3874654769897461, rmse: 0.5598345994949341, r2:0.6253684163093567
+
+Autoformer28_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3727012574672699, mae:0.42825841903686523, rmse: 0.6104926466941833, r2:0.5545020401477814
+
+Autoformer29_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17324498295783997, mae:0.2686217129230499, rmse: 0.4162270724773407, r2:0.792916476726532
+
+Autoformer30_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.354721337556839, mae:0.41882723569869995, rmse: 0.5955848693847656, r2:0.5759938359260559
+
+Autoformer32_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1822419911623001, mae:0.26487284898757935, rmse: 0.4268980920314789, r2:0.7821621745824814
+
+Autoformer33_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.30897828936576843, mae:0.3747110962867737, rmse: 0.5558581352233887, r2:0.630671501159668
+
+Autoformer34_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2745639979839325, mae:0.38517868518829346, rmse: 0.5239885449409485, r2:0.6718076765537262
+
+Autoformer35_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.32789793610572815, mae:0.3907504081726074, rmse: 0.5726237297058105, r2:0.6080564260482788
+
+Autoformer36_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.29068446159362793, mae:0.36309096217155457, rmse: 0.5391516089439392, r2:0.6525385081768036
+
+Autoformer37_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13513962924480438, mae:0.24763818085193634, rmse: 0.36761343479156494, r2:0.8384646475315094
+
+Autoformer38_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2424081563949585, mae:0.31591087579727173, rmse: 0.49234962463378906, r2:0.710244208574295
+
+Autoformer39_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1863204687833786, mae:0.2826971411705017, rmse: 0.4316485524177551, r2:0.7772870659828186
+
+Autoformer40_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1418333798646927, mae:0.2652676999568939, rmse: 0.3766077160835266, r2:0.8304634541273117
+
+Autoformer41_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16393987834453583, mae:0.24431926012039185, rmse: 0.4048948884010315, r2:0.8040390759706497
+
+Autoformer42_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20946140587329865, mae:0.27231836318969727, rmse: 0.45766952633857727, r2:0.7496261894702911
+
+Autoformer43_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1481122225522995, mae:0.25995346903800964, rmse: 0.3848535120487213, r2:0.8229582160711288
+
+Autoformer44_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40564173460006714, mae:0.4132661819458008, rmse: 0.6369001269340515, r2:0.515127569437027
+
+Autoformer45_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16206815838813782, mae:0.24311068654060364, rmse: 0.40257689356803894, r2:0.8062763959169388
+
+Autoformer46_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1877415031194687, mae:0.2981949746608734, rmse: 0.4332914650440216, r2:0.7755884826183319
+
+Autoformer47_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22334074974060059, mae:0.2872876822948456, rmse: 0.4725894033908844, r2:0.7330359220504761
+
+Autoformer48_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1986217200756073, mae:0.26716387271881104, rmse: 0.4456699788570404, r2:0.7625831216573715
+
+Autoformer49_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15666887164115906, mae:0.28148382902145386, rmse: 0.3958141803741455, r2:0.8127302676439285
+
+Autoformer50_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22252078354358673, mae:0.292706161737442, rmse: 0.4717210829257965, r2:0.7340160310268402
+
+Autoformer51_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2629713714122772, mae:0.34643101692199707, rmse: 0.5128073692321777, r2:0.685664564371109
+
+Autoformer52_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21751947700977325, mae:0.32160505652427673, rmse: 0.46638983488082886, r2:0.7399942278862
+
+Autoformer53_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2873038947582245, mae:0.3671605587005615, rmse: 0.5360073447227478, r2:0.6565793752670288
+
+Autoformer54_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22384041547775269, mae:0.30155274271965027, rmse: 0.47311776876449585, r2:0.7324386537075043
+
+Autoformer55_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12792889773845673, mae:0.23359324038028717, rmse: 0.35767149925231934, r2:0.847083792090416
+
+Autoformer56_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1841350793838501, mae:0.2552271783351898, rmse: 0.4291096329689026, r2:0.7798993140459061
+
+Autoformer57_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17526188492774963, mae:0.2574322521686554, rmse: 0.41864290833473206, r2:0.7905056327581406
+
+Autoformer58_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1566828340291977, mae:0.26404330134391785, rmse: 0.395831823348999, r2:0.8127135783433914
+
+Autoformer59_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.539250373840332, mae:0.5281220078468323, rmse: 0.7343366742134094, r2:0.3554222583770752
+
+Autoformer60_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2995753288269043, mae:0.3604636490345001, rmse: 0.5473347306251526, r2:0.6419110596179962
+
+Autoformer61_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15901663899421692, mae:0.2682979702949524, rmse: 0.39876890182495117, r2:0.8099239468574524
+
+Autoformer62_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1677398979663849, mae:0.26162779331207275, rmse: 0.4095606207847595, r2:0.7994968444108963
+
+Autoformer63_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17544734477996826, mae:0.2694285213947296, rmse: 0.41886433959007263, r2:0.7902839630842209
+
+Autoformer64_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6413090229034424, mae:0.6121785044670105, rmse: 0.8008177280426025, r2:0.23342937231063843
+
+Autoformer65_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.36406078934669495, mae:0.412481427192688, rmse: 0.6033744812011719, r2:0.5648301839828491
+
+Autoformer66_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3535770773887634, mae:0.4193379878997803, rmse: 0.5946234464645386, r2:0.5773615837097168
+
+Autoformer67_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3941470682621002, mae:0.4002441167831421, rmse: 0.6278113126754761, r2:0.5288673937320709
+
+Autoformer68_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1922464370727539, mae:0.27570050954818726, rmse: 0.4384591579437256, r2:0.77020363509655
+
+Autoformer69_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18094387650489807, mae:0.28343909978866577, rmse: 0.42537498474121094, r2:0.7837138324975967
+
+Autoformer70_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4747977554798126, mae:0.4502856135368347, rmse: 0.6890556812286377, r2:0.4324638843536377
+
+Autoformer71_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21506519615650177, mae:0.3226376473903656, rmse: 0.4637512266635895, r2:0.7429278790950775
+
+Autoformer72_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1943831592798233, mae:0.29063159227371216, rmse: 0.44088906049728394, r2:0.7676495611667633
+
+Autoformer73_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16417869925498962, mae:0.2618352770805359, rmse: 0.4051896929740906, r2:0.8037536144256592
+
+Autoformer74_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2229737937450409, mae:0.2908483147621155, rmse: 0.47220101952552795, r2:0.7334745526313782
+
+Autoformer75_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20989710092544556, mae:0.2985812723636627, rmse: 0.45814529061317444, r2:0.7491054236888885
+
+Autoformer76_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17498208582401276, mae:0.26418590545654297, rmse: 0.4183086156845093, r2:0.7908400893211365
+
+Autoformer77_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.29555442929267883, mae:0.36069560050964355, rmse: 0.5436491966247559, r2:0.6467173099517822
+
+Autoformer78_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.190079003572464, mae:0.27775445580482483, rmse: 0.43598049879074097, r2:0.7727944105863571
+
+Autoformer79_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40172088146209717, mae:0.47885990142822266, rmse: 0.6338145732879639, r2:0.5198142528533936
+
+Autoformer80_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2147083282470703, mae:0.2690218985080719, rmse: 0.46336629986763, r2:0.7433544397354126
+
+Autoformer81_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17552542686462402, mae:0.2665944993495941, rmse: 0.41895756125450134, r2:0.7901906222105026
+
+Autoformer82_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1608673632144928, mae:0.24969175457954407, rmse: 0.40108272433280945, r2:0.807711735367775
+
+Autoformer83_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21257829666137695, mae:0.27874159812927246, rmse: 0.46106213331222534, r2:0.7459005117416382
+
+Autoformer84_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20810192823410034, mae:0.27733686566352844, rmse: 0.45618191361427307, r2:0.7512512058019638
+
+Autoformer85_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23497629165649414, mae:0.29457151889801025, rmse: 0.48474353551864624, r2:0.7191277146339417
+
+Autoformer86_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19934040307998657, mae:0.2775685787200928, rmse: 0.4464755356311798, r2:0.761724054813385
+
+Autoformer87_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20909588038921356, mae:0.2783442735671997, rmse: 0.4572700262069702, r2:0.7500631213188171
+
+Autoformer88_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4752718508243561, mae:0.49333709478378296, rmse: 0.6893996596336365, r2:0.4318971633911133
+
+Autoformer89_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25166675448417664, mae:0.3412453532218933, rmse: 0.5016639828681946, r2:0.6991772353649139
+
+Autoformer90_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26336297392845154, mae:0.33194443583488464, rmse: 0.5131890177726746, r2:0.6851964592933655
+
+Autoformer91_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1262548416852951, mae:0.232479989528656, rmse: 0.35532358288764954, r2:0.8490848243236542
+
+Autoformer92_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3560240566730499, mae:0.4126589894294739, rmse: 0.5966775417327881, r2:0.5744366645812988
+
+Autoformer93_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17463110387325287, mae:0.24436859786510468, rmse: 0.417888879776001, r2:0.7912596166133881
+
+Autoformer94_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20995260775089264, mae:0.3201049566268921, rmse: 0.45820584893226624, r2:0.7490390539169312
+
+Autoformer95_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.30878114700317383, mae:0.38074007630348206, rmse: 0.5556808114051819, r2:0.6309071481227875
+
+Autoformer96_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2163151353597641, mae:0.2821425795555115, rmse: 0.46509692072868347, r2:0.7414337992668152
+
+Autoformer97_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.42642632126808167, mae:0.46787914633750916, rmse: 0.653013288974762, r2:0.4902833104133606
+
+Autoformer98_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.27111226320266724, mae:0.3474956452846527, rmse: 0.5206844210624695, r2:0.6759335696697235
+
+Autoformer99_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3515017032623291, mae:0.4086798131465912, rmse: 0.5928757786750793, r2:0.5798423290252686
+
+Autoformer100_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17973293364048004, mae:0.2977830171585083, rmse: 0.4239492118358612, r2:0.7851613014936447
+
+Autoformer101_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.35729342699050903, mae:0.4153161346912384, rmse: 0.5977402925491333, r2:0.5729193389415741
+
+Autoformer102_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6048593521118164, mae:0.5348259210586548, rmse: 0.7777270674705505, r2:0.2769984006881714
+
+Autoformer103_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18083076179027557, mae:0.2873425781726837, rmse: 0.42524200677871704, r2:0.7838490307331085
+
+Autoformer104_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18282172083854675, mae:0.256598562002182, rmse: 0.42757657170295715, r2:0.7814691960811615
+
+Autoformer105_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2766727805137634, mae:0.36184248328208923, rmse: 0.5259969234466553, r2:0.6692869961261749
+
+Autoformer106_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28591394424438477, mae:0.31527775526046753, rmse: 0.5347092151641846, r2:0.6582408249378204
+
+Autoformer107_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5144689679145813, mae:0.4543687403202057, rmse: 0.7172649502754211, r2:0.38504403829574585
+
+Autoformer108_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3476402759552002, mae:0.3951205611228943, rmse: 0.5896102786064148, r2:0.5844579637050629
+
+Autoformer109_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1365244835615158, mae:0.24522602558135986, rmse: 0.36949220299720764, r2:0.8368092924356461
+
+Autoformer110_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1829092800617218, mae:0.2585966885089874, rmse: 0.4276789426803589, r2:0.7813645452260971
+
+Autoformer111_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23714540898799896, mae:0.29476088285446167, rmse: 0.4869757890701294, r2:0.7165349125862122
+
+Autoformer112_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5608823299407959, mae:0.4907054901123047, rmse: 0.7489207983016968, r2:0.32956504821777344
+
+Autoformer113_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17562733590602875, mae:0.24971777200698853, rmse: 0.41907915472984314, r2:0.7900688052177429
+
+Autoformer114_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2567043602466583, mae:0.3244944214820862, rmse: 0.506659984588623, r2:0.6931556761264801
+
+Autoformer115_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1736578643321991, mae:0.276451975107193, rmse: 0.41672277450561523, r2:0.7924229651689529
+
+Autoformer116_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21739818155765533, mae:0.29669666290283203, rmse: 0.46625977754592896, r2:0.7401391863822937
+
+Autoformer117_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22157935798168182, mae:0.30383458733558655, rmse: 0.47072216868400574, r2:0.7351413369178772
+
+Autoformer118_Autoformer_custom_ftMS_sl96_ll10_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22457534074783325, mae:0.3131159543991089, rmse: 0.47389382123947144, r2:0.7315602004528046
+
+Autoformer119_Autoformer_custom_ftMS_sl96_ll24_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.27246877551078796, mae:0.3106839656829834, rmse: 0.5219854116439819, r2:0.6743121147155762
+
+Autoformer120_Autoformer_custom_ftMS_sl96_ll48_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19768939912319183, mae:0.2872087061405182, rmse: 0.4446227550506592, r2:0.7636975347995758
+
+Autoformer121_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3705003261566162, mae:0.4502107799053192, rmse: 0.6086874008178711, r2:0.5571328401565552
+
+Autoformer122_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22455786168575287, mae:0.3073171377182007, rmse: 0.47387537360191345, r2:0.7315810918807983
+
+Autoformer123_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18928523361682892, mae:0.2681615650653839, rmse: 0.4350692331790924, r2:0.7737432271242142
+
+Autoformer124_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2432483434677124, mae:0.3382498621940613, rmse: 0.4932021200656891, r2:0.7092399597167969
+
+Autoformer125_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5478439331054688, mae:0.4822523295879364, rmse: 0.7401648163795471, r2:0.3451502323150635
+
+Autoformer126_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5431267619132996, mae:0.5327064990997314, rmse: 0.7369713187217712, r2:0.3507887125015259
+
+Autoformer127_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16893865168094635, mae:0.27801036834716797, rmse: 0.41102147102355957, r2:0.7980639338493347
+
+Autoformer128_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2052042931318283, mae:0.3025408387184143, rmse: 0.45299479365348816, r2:0.7547148317098618
+
+Autoformer129_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1910054087638855, mae:0.2732933461666107, rmse: 0.43704167008399963, r2:0.7716870605945587
+
+Autoformer130_Autoformer_custom_ftMS_sl96_ll10_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16772255301475525, mae:0.26771557331085205, rmse: 0.40953943133354187, r2:0.7995175719261169
+
+Autoformer131_Autoformer_custom_ftMS_sl96_ll24_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.29282620549201965, mae:0.38418102264404297, rmse: 0.5411341786384583, r2:0.6499784290790558
+
+Autoformer132_Autoformer_custom_ftMS_sl96_ll48_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5016831755638123, mae:0.4634772837162018, rmse: 0.7082959413528442, r2:0.40032708644866943
+
+Autoformer133_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1496526300907135, mae:0.24850496649742126, rmse: 0.38684961199760437, r2:0.8211169391870499
+
+Autoformer134_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.23268480598926544, mae:0.3158067464828491, rmse: 0.4823741316795349, r2:0.7218667566776276
+
+Autoformer135_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20731306076049805, mae:0.298601359128952, rmse: 0.4553164541721344, r2:0.7521941512823105
+
+Autoformer136_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24067313969135284, mae:0.30885016918182373, rmse: 0.49058449268341064, r2:0.7123181521892548
+
+Autoformer137_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.309362530708313, mae:0.37481528520584106, rmse: 0.5562036633491516, r2:0.6302122175693512
+
+Autoformer138_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19208113849163055, mae:0.28574061393737793, rmse: 0.438270628452301, r2:0.7704012095928192
+
+Autoformer139_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14416193962097168, mae:0.24344992637634277, rmse: 0.3796866238117218, r2:0.8276800811290741
+
+Autoformer140_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21628877520561218, mae:0.29986825585365295, rmse: 0.4650685787200928, r2:0.741465300321579
+
+Autoformer141_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2156362533569336, mae:0.2907761037349701, rmse: 0.46436649560928345, r2:0.7422452569007874
+
+Autoformer142_Autoformer_custom_ftMS_sl96_ll10_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:2.083744525909424, mae:1.066601037979126, rmse: 1.4435181617736816, r2:-1.4907455444335938
+
+Autoformer143_Autoformer_custom_ftMS_sl96_ll24_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.2554582357406616, mae:0.8167352676391602, rmse: 1.1204723119735718, r2:-0.5006766319274902
+
+Autoformer144_Autoformer_custom_ftMS_sl96_ll48_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3246621787548065, mae:0.3808165490627289, rmse: 0.569791316986084, r2:0.6119242012500763
+
+Autoformer8_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07344665378332138, mae:0.18290431797504425, rmse: 0.2710104286670685, r2:0.9122076109051704
+
+Autoformer9_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.015770679339766502, mae:0.09166911244392395, rmse: 0.12558136880397797, r2:0.9811489619314671
+
+Autoformer10_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04322906956076622, mae:0.14253602921962738, rmse: 0.2079160213470459, r2:0.9483273476362228
+
+Autoformer1_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025734001770615578, mae:0.10881626605987549, rmse: 0.16041821241378784, r2:0.9692395851016045
+
+Autoformer2_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.047295864671468735, mae:0.14807093143463135, rmse: 0.21747612953186035, r2:0.9434662200510502
+
+Autoformer3_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05755757912993431, mae:0.15194958448410034, rmse: 0.23991160094738007, r2:0.9312001690268517
+
+Autoformer4_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06024337187409401, mae:0.1660178303718567, rmse: 0.24544525146484375, r2:0.9279897809028625
+
+Autoformer5_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.028965365141630173, mae:0.12877485156059265, rmse: 0.17019213736057281, r2:0.9653770662844181
+
+Autoformer6_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.152548685669899, mae:0.2613407075405121, rmse: 0.3905748128890991, r2:0.8176552206277847
+
+Autoformer7_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05653534084558487, mae:0.16369019448757172, rmse: 0.23777161538600922, r2:0.9324220716953278
+
+Autoformer8_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07352506369352341, mae:0.1882375329732895, rmse: 0.27115505933761597, r2:0.9121138826012611
+
+Autoformer9_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.02275925688445568, mae:0.11236352473497391, rmse: 0.1508617103099823, r2:0.9727953635156155
+
+Autoformer10_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06255844235420227, mae:0.17543423175811768, rmse: 0.25011685490608215, r2:0.9252225235104561
+
+Autoformer11_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04491369053721428, mae:0.15267445147037506, rmse: 0.21192850172519684, r2:0.9463136866688728
+
+Autoformer12_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.050366029143333435, mae:0.15646731853485107, rmse: 0.22442376613616943, r2:0.9397963844239712
+
+Autoformer13_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09154394268989563, mae:0.22640563547611237, rmse: 0.30256229639053345, r2:0.8905755206942558
+
+Autoformer14_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03109109401702881, mae:0.11788202822208405, rmse: 0.1763266623020172, r2:0.9628361351788044
+
+Autoformer15_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04721982404589653, mae:0.15610480308532715, rmse: 0.21730123460292816, r2:0.9435571134090424
+
+Autoformer16_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6179935932159424, mae:0.4710856080055237, rmse: 0.786125659942627, r2:0.2612987756729126
+
+Autoformer17_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1137157753109932, mae:0.24215318262577057, rmse: 0.33721768856048584, r2:0.8640730530023575
+
+Autoformer18_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4333631694316864, mae:0.47136160731315613, rmse: 0.6583032608032227, r2:0.4819915294647217
+
+Autoformer19_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.044105686247348785, mae:0.1381579339504242, rmse: 0.21001353859901428, r2:0.9472795128822327
+
+Autoformer20_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1164737418293953, mae:0.23274236917495728, rmse: 0.3412824869155884, r2:0.8607763946056366
+
+Autoformer21_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07074695080518723, mae:0.19912189245224, rmse: 0.265982985496521, r2:0.9154346287250519
+
+Autoformer22_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0719120055437088, mae:0.1918284296989441, rmse: 0.26816412806510925, r2:0.9140420109033585
+
+Autoformer23_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12792553007602692, mae:0.25193580985069275, rmse: 0.3576667904853821, r2:0.8470878303050995
+
+Autoformer24_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1065073236823082, mae:0.21312294900417328, rmse: 0.32635459303855896, r2:0.8726894706487656
+
+Autoformer25_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10065048933029175, mae:0.23050735890865326, rmse: 0.31725460290908813, r2:0.8796902671456337
+
+Autoformer26_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13528259098529816, mae:0.2648310661315918, rmse: 0.3678078055381775, r2:0.8382937610149384
+
+Autoformer27_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10288882255554199, mae:0.2098178118467331, rmse: 0.32076287269592285, r2:0.8770147413015366
+
+Autoformer28_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.7250502109527588, mae:0.4777129292488098, rmse: 0.8514987826347351, r2:0.13333159685134888
+
+Autoformer29_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2579268217086792, mae:0.3846810460090637, rmse: 0.5078649520874023, r2:0.691694438457489
+
+Autoformer30_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11277880519628525, mae:0.22813956439495087, rmse: 0.3358255624771118, r2:0.8651930242776871
+
+Autoformer31_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5242201089859009, mae:0.5026392340660095, rmse: 0.7240304350852966, r2:0.37338823080062866
+
+Autoformer32_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1677435040473938, mae:0.2499571591615677, rmse: 0.4095650315284729, r2:0.7994925230741501
+
+Autoformer33_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.30394166707992554, mae:0.424963116645813, rmse: 0.5513090491294861, r2:0.6366918981075287
+
+Autoformer34_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5624198317527771, mae:0.458620548248291, rmse: 0.7499465346336365, r2:0.3277272582054138
+
+Autoformer35_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10749732702970505, mae:0.24739323556423187, rmse: 0.3278678357601166, r2:0.8715060949325562
+
+Autoformer36_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19957773387432098, mae:0.2847912013530731, rmse: 0.4467412233352661, r2:0.7614403814077377
+
+Autoformer37_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.031425464898347855, mae:0.1137799397110939, rmse: 0.17727228999137878, r2:0.962436456233263
+
+Autoformer38_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.018663350492715836, mae:0.09899499267339706, rmse: 0.1366138756275177, r2:0.977691289037466
+
+Autoformer39_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03999355807900429, mae:0.13123628497123718, rmse: 0.1999838948249817, r2:0.9521948285400867
+
+Autoformer40_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12747961282730103, mae:0.231833815574646, rmse: 0.3570428788661957, r2:0.8476208448410034
+
+Autoformer41_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1607414186000824, mae:0.24693140387535095, rmse: 0.4009256958961487, r2:0.8078622817993164
+
+Autoformer42_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05797629803419113, mae:0.16859690845012665, rmse: 0.24078267812728882, r2:0.9306996613740921
+
+Autoformer43_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.025418205186724663, mae:0.11502426862716675, rmse: 0.1594308763742447, r2:0.9696170631796122
+
+Autoformer44_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12038330733776093, mae:0.23903214931488037, rmse: 0.34696298837661743, r2:0.8561031967401505
+
+Autoformer45_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.026516664773225784, mae:0.1176474541425705, rmse: 0.1628393828868866, r2:0.9683040492236614
+
+Autoformer46_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0920095443725586, mae:0.1902015507221222, rmse: 0.30333074927330017, r2:0.8900189772248268
+
+Autoformer47_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0619615763425827, mae:0.1747404932975769, rmse: 0.24892082810401917, r2:0.9259359687566757
+
+Autoformer48_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0648038238286972, mae:0.1712886095046997, rmse: 0.254565954208374, r2:0.9225385710597038
+
+Autoformer49_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12352097034454346, mae:0.2613665461540222, rmse: 0.3514555096626282, r2:0.8523526936769485
+
+Autoformer50_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20206980407238007, mae:0.30525314807891846, rmse: 0.4495217502117157, r2:0.7584615498781204
+
+Autoformer51_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.040025871247053146, mae:0.14300362765789032, rmse: 0.20006467401981354, r2:0.952156201004982
+
+Autoformer52_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12012923508882523, mae:0.24034814536571503, rmse: 0.3465966582298279, r2:0.8564068973064423
+
+Autoformer53_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12666895985603333, mae:0.24345006048679352, rmse: 0.35590583086013794, r2:0.8485898226499557
+
+Autoformer54_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.052054669708013535, mae:0.16657745838165283, rmse: 0.22815492749214172, r2:0.9377779178321362
+
+Autoformer55_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.25289222598075867, mae:0.3475678563117981, rmse: 0.5028839111328125, r2:0.6977123916149139
+
+Autoformer56_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08457519859075546, mae:0.1969737708568573, rmse: 0.29081815481185913, r2:0.8989054188132286
+
+Autoformer57_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1661408692598343, mae:0.26910293102264404, rmse: 0.40760380029678345, r2:0.8014081865549088
+
+Autoformer58_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11685620993375778, mae:0.2532823383808136, rmse: 0.341842383146286, r2:0.8603192269802094
+
+Autoformer59_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07436586171388626, mae:0.205186665058136, rmse: 0.27270105481147766, r2:0.9111088588833809
+
+Autoformer60_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11743846535682678, mae:0.24424175918102264, rmse: 0.3426929712295532, r2:0.8596232384443283
+
+Autoformer61_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.044590312987565994, mae:0.14780399203300476, rmse: 0.211164191365242, r2:0.9467002227902412
+
+Autoformer62_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.044826898723840714, mae:0.14669595658779144, rmse: 0.21172364056110382, r2:0.9464174285531044
+
+Autoformer63_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.21848544478416443, mae:0.3554612696170807, rmse: 0.46742427349090576, r2:0.7388395667076111
+
+Autoformer64_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.008868932723999, mae:0.7238684296607971, rmse: 1.0044246912002563, r2:-0.2059231996536255
+
+Autoformer65_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.36036473512649536, mae:0.43673238158226013, rmse: 0.6003038883209229, r2:0.5692481398582458
+
+Autoformer66_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.47818076610565186, mae:0.5216687917709351, rmse: 0.6915061473846436, r2:0.4284200668334961
+
+Autoformer67_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16922064125537872, mae:0.31249627470970154, rmse: 0.4113643765449524, r2:0.7977268546819687
+
+Autoformer68_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07705850154161453, mae:0.18484340608119965, rmse: 0.27759411931037903, r2:0.9078902900218964
+
+Autoformer69_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05320856347680092, mae:0.1524714082479477, rmse: 0.2306698113679886, r2:0.9363986402750015
+
+Autoformer70_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14608632028102875, mae:0.26733994483947754, rmse: 0.38221240043640137, r2:0.8253798335790634
+
+Autoformer71_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5197445750236511, mae:0.45506542921066284, rmse: 0.7209331393241882, r2:0.3787379860877991
+
+Autoformer72_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.041387677192688, mae:0.6880966424942017, rmse: 1.0204840898513794, r2:-0.24479353427886963
+
+Autoformer73_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.024876723065972328, mae:0.1078106015920639, rmse: 0.1577235609292984, r2:0.9702643100172281
+
+Autoformer74_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08838976174592972, mae:0.2102963626384735, rmse: 0.2973041534423828, r2:0.8943457901477814
+
+Autoformer75_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.02533678524196148, mae:0.11548145115375519, rmse: 0.1591753214597702, r2:0.9697143863886595
+
+Autoformer76_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1124313473701477, mae:0.22488529980182648, rmse: 0.3353078365325928, r2:0.865608349442482
+
+Autoformer77_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.18806502223014832, mae:0.281127005815506, rmse: 0.4336646497249603, r2:0.7752017825841904
+
+Autoformer78_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06713502109050751, mae:0.1733240783214569, rmse: 0.25910428166389465, r2:0.9197520390152931
+
+Autoformer79_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04526941478252411, mae:0.1364479809999466, rmse: 0.2127661108970642, r2:0.9458884783089161
+
+Autoformer80_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05033910274505615, mae:0.1638706475496292, rmse: 0.224363774061203, r2:0.9398285709321499
+
+Autoformer81_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.01712540164589882, mae:0.08938869833946228, rmse: 0.13086405396461487, r2:0.9795296341180801
+
+Autoformer82_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.02858145348727703, mae:0.12189534306526184, rmse: 0.16906049847602844, r2:0.9658359624445438
+
+Autoformer83_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05333736911416054, mae:0.16701139509677887, rmse: 0.23094885051250458, r2:0.9362446740269661
+
+Autoformer84_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.036932870745658875, mae:0.1346411108970642, rmse: 0.19217926263809204, r2:0.9558533318340778
+
+Autoformer85_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.27424681186676025, mae:0.3721455931663513, rmse: 0.5236858129501343, r2:0.6721867918968201
+
+Autoformer86_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11193107813596725, mae:0.24746842682361603, rmse: 0.3345610201358795, r2:0.8662063330411911
+
+Autoformer87_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07323088496923447, mae:0.18969982862472534, rmse: 0.27061206102371216, r2:0.9124655276536942
+
+Autoformer88_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14441436529159546, mae:0.28164544701576233, rmse: 0.3800188899040222, r2:0.8273783475160599
+
+Autoformer89_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09520852565765381, mae:0.20830696821212769, rmse: 0.30855879187583923, r2:0.8861951678991318
+
+Autoformer90_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.059115782380104065, mae:0.16577069461345673, rmse: 0.24313737452030182, r2:0.9293376132845879
+
+Autoformer91_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.026626523584127426, mae:0.11659334599971771, rmse: 0.16317635774612427, r2:0.9681727327406406
+
+Autoformer92_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.14788423478603363, mae:0.2630995810031891, rmse: 0.38455718755722046, r2:0.8232307434082031
+
+Autoformer93_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.20032784342765808, mae:0.3130301833152771, rmse: 0.4475799798965454, r2:0.7605437487363815
+
+Autoformer94_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15110017359256744, mae:0.24228587746620178, rmse: 0.38871607184410095, r2:0.8193866610527039
+
+Autoformer95_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08457217365503311, mae:0.2040269523859024, rmse: 0.2908129394054413, r2:0.8989090248942375
+
+Autoformer96_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17852473258972168, mae:0.2978537380695343, rmse: 0.4225218594074249, r2:0.7866054773330688
+
+Autoformer97_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06543583422899246, mae:0.18315556645393372, rmse: 0.25580430030822754, r2:0.9217831119894981
+
+Autoformer98_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19418451189994812, mae:0.3002939820289612, rmse: 0.44066372513771057, r2:0.7678870111703873
+
+Autoformer99_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0742705911397934, mae:0.1961347460746765, rmse: 0.2725263237953186, r2:0.9112227410078049
+
+Autoformer100_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.33899539709091187, mae:0.35083216428756714, rmse: 0.5822331309318542, r2:0.5947913825511932
+
+Autoformer101_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.7982771396636963, mae:0.581140398979187, rmse: 0.8934635519981384, r2:0.04580187797546387
+
+Autoformer102_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4263962507247925, mae:0.470916211605072, rmse: 0.6529902219772339, r2:0.49031925201416016
+
+Autoformer103_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16636602580547333, mae:0.29898688197135925, rmse: 0.40787991881370544, r2:0.8011390417814255
+
+Autoformer104_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17806795239448547, mae:0.30663007497787476, rmse: 0.42198097705841064, r2:0.7871514856815338
+
+Autoformer105_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.28241750597953796, mae:0.375042587518692, rmse: 0.5314297080039978, r2:0.6624201536178589
+
+Autoformer106_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3722076714038849, mae:0.40379199385643005, rmse: 0.6100882291793823, r2:0.5550920367240906
+
+Autoformer107_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4485637843608856, mae:0.4470866918563843, rmse: 0.6697490215301514, r2:0.4638218879699707
+
+Autoformer108_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0983009934425354, mae:0.18346062302589417, rmse: 0.3135298788547516, r2:0.882498674094677
+
+Autoformer109_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03391612693667412, mae:0.12850899994373322, rmse: 0.18416331708431244, r2:0.9594593122601509
+
+Autoformer110_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11324512213468552, mae:0.231707364320755, rmse: 0.33651912212371826, r2:0.86463563144207
+
+Autoformer111_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04013310745358467, mae:0.14629873633384705, rmse: 0.20033249258995056, r2:0.9520280212163925
+
+Autoformer112_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04244336113333702, mae:0.15115420520305634, rmse: 0.20601786673069, r2:0.9492665193974972
+
+Autoformer113_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06298673152923584, mae:0.19059397280216217, rmse: 0.25097158551216125, r2:0.9247105866670609
+
+Autoformer114_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.24421600997447968, mae:0.34213876724243164, rmse: 0.49418216943740845, r2:0.7080832719802856
+
+Autoformer115_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04388915374875069, mae:0.14873450994491577, rmse: 0.2094973772764206, r2:0.9475383348762989
+
+Autoformer116_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.049859028309583664, mae:0.15442021191120148, rmse: 0.22329135239124298, r2:0.9404024109244347
+
+Autoformer117_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05038607865571976, mae:0.17201577126979828, rmse: 0.2244684398174286, r2:0.9397724196314812
+
+Autoformer118_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07248462736606598, mae:0.19363367557525635, rmse: 0.2692296802997589, r2:0.9133575484156609
+
+Autoformer119_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09367171674966812, mae:0.2076321393251419, rmse: 0.3060583472251892, r2:0.8880321457982063
+
+Autoformer120_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.035528622567653656, mae:0.13571251928806305, rmse: 0.1884903758764267, r2:0.9575318619608879
+
+Autoformer121_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.15432371199131012, mae:0.2653762400150299, rmse: 0.39284056425094604, r2:0.8155335038900375
+
+Autoformer122_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04772702604532242, mae:0.14750570058822632, rmse: 0.2184651643037796, r2:0.9429508447647095
+
+Autoformer123_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19198951125144958, mae:0.3205971419811249, rmse: 0.438166081905365, r2:0.7705107480287552
+
+Autoformer124_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.19252513349056244, mae:0.30045285820961, rmse: 0.4387768507003784, r2:0.7698704898357391
+
+Autoformer125_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10639211535453796, mae:0.19417095184326172, rmse: 0.32617804408073425, r2:0.8728271722793579
+
+Autoformer126_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10851037502288818, mae:0.22445590794086456, rmse: 0.329409122467041, r2:0.8702951818704605
+
+Autoformer127_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07724250108003616, mae:0.21438910067081451, rmse: 0.2779253423213959, r2:0.9076703488826752
+
+Autoformer128_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.16561011970043182, mae:0.26252421736717224, rmse: 0.40695223212242126, r2:0.8020426034927368
+
+Autoformer129_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03904123976826668, mae:0.13157214224338531, rmse: 0.19758856296539307, r2:0.9533331505954266
+
+Autoformer130_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11861266940832138, mae:0.24120977520942688, rmse: 0.34440189599990845, r2:0.8582196831703186
+
+Autoformer131_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1674286276102066, mae:0.31684592366218567, rmse: 0.4091804325580597, r2:0.7998688966035843
+
+Autoformer132_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11772923171520233, mae:0.26376476883888245, rmse: 0.3431169390678406, r2:0.859275683760643
+
+Autoformer133_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06784147769212723, mae:0.19049139320850372, rmse: 0.2604639530181885, r2:0.918907605111599
+
+Autoformer134_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1365460455417633, mae:0.20697547495365143, rmse: 0.3695213794708252, r2:0.8367835134267807
+
+Autoformer135_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07400812953710556, mae:0.21413905918598175, rmse: 0.2720443606376648, r2:0.9115364626049995
+
+Autoformer136_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.22290433943271637, mae:0.2557113468647003, rmse: 0.4721274673938751, r2:0.7335575819015503
+
+Autoformer137_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13330009579658508, mae:0.26654163002967834, rmse: 0.3651028573513031, r2:0.840663492679596
+
+Autoformer138_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3994293212890625, mae:0.3778189420700073, rmse: 0.6320042014122009, r2:0.5225533843040466
+
+Autoformer139_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12307420372962952, mae:0.25359392166137695, rmse: 0.35081931948661804, r2:0.8528867065906525
+
+Autoformer140_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09660094231367111, mae:0.21992531418800354, rmse: 0.31080693006515503, r2:0.884530782699585
+
+Autoformer141_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl1_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.17560026049613953, mae:0.31063520908355713, rmse: 0.4190468490123749, r2:0.790101170539856
+
+Autoformer142_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0463663749396801, mae:0.13549956679344177, rmse: 0.21532852947711945, r2:0.9445772580802441
+
+Autoformer143_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26060783863067627, mae:0.36135023832321167, rmse: 0.5104976296424866, r2:0.6884897351264954
+
+Autoformer144_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el3_dl2_df4096_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11946472525596619, mae:0.25484102964401245, rmse: 0.3456366956233978, r2:0.8572012037038803
+
+Autoformer1_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08041245490312576, mae:0.16850271821022034, rmse: 0.28357088565826416, r2:0.9181096479296684
+
+Autoformer2_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06583990901708603, mae:0.14823944866657257, rmse: 0.25659289956092834, r2:0.9329500198364258
+
+Autoformer3_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03477543964982033, mae:0.09829437732696533, rmse: 0.18648174405097961, r2:0.9645854234695435
+
+Autoformer4_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.054824259132146835, mae:0.11994655430316925, rmse: 0.23414580523967743, r2:0.9441681280732155
+
+Autoformer5_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.059807758778333664, mae:0.1390097588300705, rmse: 0.2445562481880188, r2:0.9390930384397507
+
+Autoformer6_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07074064761400223, mae:0.15519960224628448, rmse: 0.2659711539745331, r2:0.9279592111706734
+
+Autoformer7_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08031494915485382, mae:0.16665148735046387, rmse: 0.28339892625808716, r2:0.9182089418172836
+
+Autoformer8_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.049157626926898956, mae:0.12027283012866974, rmse: 0.22171519696712494, r2:0.9499389044940472
+
+Autoformer9_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04052805155515671, mae:0.11555812507867813, rmse: 0.20131580531597137, r2:0.9587270841002464
+
+Autoformer10_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.046590495854616165, mae:0.12093759328126907, rmse: 0.21584831178188324, r2:0.9525532200932503
+
+Autoformer11_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07057211548089981, mae:0.16161717474460602, rmse: 0.2656541168689728, r2:0.9281308427453041
+
+Autoformer12_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.05466817319393158, mae:0.13991695642471313, rmse: 0.23381225764751434, r2:0.9443270824849606
+
+Autoformer13_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09090758115053177, mae:0.1977768838405609, rmse: 0.3015088438987732, r2:0.9074216261506081
+
+Autoformer14_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04009466618299484, mae:0.10742728412151337, rmse: 0.20023652911186218, r2:0.9591684341430664
+
+Autoformer15_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0905926451086998, mae:0.1816382259130478, rmse: 0.300986111164093, r2:0.9077423587441444
+
+Autoformer16_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.26172003149986267, mae:0.2693158686161041, rmse: 0.5115857720375061, r2:0.7334698140621185
+
+Autoformer17_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0822325348854065, mae:0.18125799298286438, rmse: 0.28676214814186096, r2:0.9162561148405075
+
+Autoformer18_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.30336782336235046, mae:0.3623528778553009, rmse: 0.5507883429527283, r2:0.6910565793514252
+
+Autoformer19_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.04400165379047394, mae:0.11699050664901733, rmse: 0.2097657173871994, r2:0.9551896415650845
+
+Autoformer20_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.06646852195262909, mae:0.1452353447675705, rmse: 0.257814884185791, r2:0.9323098585009575
+
+Autoformer21_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.07327961176633835, mae:0.15865802764892578, rmse: 0.270702064037323, r2:0.9253735840320587
+
+Autoformer22_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.09050725400447845, mae:0.17721301317214966, rmse: 0.3008442223072052, r2:0.9078293144702911
+
+Autoformer23_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.13951319456100464, mae:0.19315975904464722, rmse: 0.37351465225219727, r2:0.8579227030277252
+
+Autoformer24_Autoformer_custom_ftMS_sl7_ll7_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.10624122619628906, mae:0.19289952516555786, rmse: 0.3259466588497162, r2:0.8918061703443527
+
+Autoformer25_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.0746515616774559, mae:0.16692765057086945, rmse: 0.2732243835926056, r2:0.9239764213562012
+
+Autoformer26_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.11912724375724792, mae:0.209940105676651, rmse: 0.34514814615249634, r2:0.8786833211779594
+
+Autoformer27_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.1327744722366333, mae:0.22307263314723969, rmse: 0.3643823266029358, r2:0.8647852689027786
+
+Autoformer28_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2392948418855667, mae:0.34004688262939453, rmse: 0.48917773365974426, r2:0.7563071548938751
+
+Autoformer29_Autoformer_custom_ftMS_sl7_ll7_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.12440574169158936, mae:0.21297866106033325, rmse: 0.3527119755744934, r2:0.8733078092336655
+
+Autoformer1_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08175361901521683, mae:0.20348243415355682, rmse: 0.28592589497566223, r2:0.9167438372969627
+
+Autoformer2_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.08175361901521683, mae:0.20348243415355682, rmse: 0.28592589497566223, r2:0.9167438372969627
+
+Autoformer3_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.03874067962169647, mae:0.10988257080316544, rmse: 0.1968265175819397, r2:0.9605473056435585
+
+Autoformer4_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.43628913164138794, mae:0.4583698809146881, rmse: 0.6605218648910522, r2:0.4784940481185913
+
+Autoformer5_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.38604220747947693, mae:0.39605483412742615, rmse: 0.6213229298591614, r2:0.5385553240776062
+
+Autoformer6_Autoformer_custom_ftMS_sl7_ll7_pl1_dm256_nh6_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4690954089164734, mae:0.4607902765274048, rmse: 0.6849054098129272, r2:0.4392799735069275
+
+Autoformer1_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3789341449737549, mae:0.3986750841140747, rmse: 0.6155762672424316, r2:0.547051727771759
+
+Autoformer2_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3485642969608307, mae:0.3888918161392212, rmse: 0.5903933644294739, r2:0.5833534598350525
+
+Autoformer4_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39265039563179016, mae:0.39971837401390076, rmse: 0.6266182065010071, r2:0.5306563973426819
+
+Autoformer5_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39114296436309814, mae:0.4208964407444, rmse: 0.625414252281189, r2:0.5324582755565643
+
+Autoformer7_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3758503198623657, mae:0.4058132767677307, rmse: 0.6130663156509399, r2:0.5507379174232483
+
+Autoformer8_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.34165605902671814, mae:0.39901483058929443, rmse: 0.5845135450363159, r2:0.5916110277175903
+
+Autoformer10_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3696829676628113, mae:0.4000071585178375, rmse: 0.6080155968666077, r2:0.558109849691391
+
+Autoformer11_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3731597661972046, mae:0.39205121994018555, rmse: 0.6108680367469788, r2:0.5539539754390717
+
+Autoformer13_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4193638861179352, mae:0.4186694025993347, rmse: 0.6475831270217896, r2:0.49872517585754395
+
+Autoformer14_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4150840640068054, mae:0.4604703485965729, rmse: 0.6442701816558838, r2:0.5038409531116486
+
+Autoformer16_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4247806966304779, mae:0.4370559751987457, rmse: 0.6517519950866699, r2:0.49225032329559326
+
+Autoformer17_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3807125389575958, mae:0.4092123210430145, rmse: 0.6170190572738647, r2:0.5449259877204895
+
+Autoformer19_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4077059328556061, mae:0.41608721017837524, rmse: 0.6385185718536377, r2:0.5126601755619049
+
+Autoformer20_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.36086505651474, mae:0.4025130569934845, rmse: 0.6007204651832581, r2:0.568650096654892
+
+Autoformer22_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4132452607154846, mae:0.41326719522476196, rmse: 0.6428415775299072, r2:0.5060389041900635
+
+Autoformer23_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4213374853134155, mae:0.4447636008262634, rmse: 0.6491051316261292, r2:0.49636608362197876
+
+Autoformer25_Autoformer_custom_ftMS_sl24_ll12_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.387726753950119, mae:0.414750874042511, rmse: 0.6226770877838135, r2:0.5365417301654816
+
+Autoformer26_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4974525570869446, mae:0.4422488510608673, rmse: 0.7053031921386719, r2:0.4053840637207031
+
+Autoformer28_Autoformer_custom_ftMS_sl24_ll12_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6605696678161621, mae:0.5029073357582092, rmse: 0.8127543926239014, r2:0.21040666103363037
+
+Autoformer29_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el2_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.5909169316291809, mae:0.47532039880752563, rmse: 0.7687112092971802, r2:0.2936640977859497
+
+Autoformer31_Autoformer_custom_ftMS_sl24_ll12_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4060642421245575, mae:0.42044565081596375, rmse: 0.637231707572937, r2:0.5146225392818451
+
+Autoformer32_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl1_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.47468024492263794, mae:0.4972754418849945, rmse: 0.6889704465866089, r2:0.4326043128967285
+
+Autoformer34_Autoformer_custom_ftMS_sl24_ll12_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4363666772842407, mae:0.43784427642822266, rmse: 0.660580575466156, r2:0.4784013628959656
+
+Autoformer35_Autoformer_custom_ftMS_sl24_ll24_pl1_dm1024_nh8_el3_dl2_df512_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40265101194381714, mae:0.44947549700737, rmse: 0.6345478892326355, r2:0.5187024474143982
+
+Autoformer37_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.37676072120666504, mae:0.4042032063007355, rmse: 0.6138083934783936, r2:0.5496496856212616
+
+Autoformer38_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3570811450481415, mae:0.38475751876831055, rmse: 0.5975626707077026, r2:0.5731731057167053
+
+Autoformer40_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39935413002967834, mae:0.4028511047363281, rmse: 0.6319447159767151, r2:0.5226432979106903
+
+Autoformer41_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39423659443855286, mae:0.39792707562446594, rmse: 0.6278825998306274, r2:0.5287604033946991
+
+Autoformer43_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3591685891151428, mae:0.39292705059051514, rmse: 0.5993067622184753, r2:0.5706779360771179
+
+Autoformer44_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3574250638484955, mae:0.3761471211910248, rmse: 0.5978503823280334, r2:0.5727620124816895
+
+Autoformer46_Autoformer_custom_ftMS_sl24_ll12_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39787396788597107, mae:0.4123215079307556, rmse: 0.6307725310325623, r2:0.5244125723838806
+
+Autoformer47_Autoformer_custom_ftMS_sl24_ll24_pl1_dm256_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.36858370900154114, mae:0.40588146448135376, rmse: 0.6071109771728516, r2:0.5594238638877869
+
+Autoformer49_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3671855926513672, mae:0.4020252525806427, rmse: 0.6059584021568298, r2:0.5610950291156769
+
+Autoformer50_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.3841578960418701, mae:0.40143731236457825, rmse: 0.6198047399520874, r2:0.5408076643943787
+
+Autoformer52_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.39593157172203064, mae:0.4213561713695526, rmse: 0.6292309165000916, r2:0.5267343521118164
+
+Autoformer53_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el2_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4378708302974701, mae:0.45045581459999084, rmse: 0.6617180705070496, r2:0.4766034483909607
+
+Autoformer55_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4293448030948639, mae:0.41721129417419434, rmse: 0.6552440524101257, r2:0.48679476976394653
+
+Autoformer56_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl1_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.4296295940876007, mae:0.4250739812850952, rmse: 0.6554613709449768, r2:0.4864543676376343
+
+Autoformer58_Autoformer_custom_ftMS_sl24_ll12_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.40969783067703247, mae:0.42803218960762024, rmse: 0.6400763988494873, r2:0.5102792084217072
+
+Autoformer59_Autoformer_custom_ftMS_sl24_ll24_pl1_dm512_nh8_el3_dl2_df1024_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.38249605894088745, mae:0.41393181681632996, rmse: 0.6184626817703247, r2:0.5427941083908081
+
